@@ -1,0 +1,7095 @@
+[
+  {
+    "ObjectName": "Storehouse",
+    "Construction": [
+      {
+        "benefits": {
+          "StorageProtection": 5000,
+          "Power": 250
+        },
+        "neededFood": 1500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 10000,
+          "Power": 700
+        },
+        "neededFood": 3500,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 15000,
+          "Power": 1500
+        },
+        "neededFood": 5000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_2",
+        "neededOre": 0,
+        "neededLumber": 5000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 20000,
+          "Power": 2600
+        },
+        "neededFood": 7000,
+        "neededTime": 330,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 25000,
+          "Power": 4000
+        },
+        "neededFood": 9000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 9000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 32000,
+          "Power": 7000
+        },
+        "neededFood": 12500,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 45000,
+          "Power": 11000
+        },
+        "neededFood": 18000,
+        "neededTime": 510,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 65000,
+          "Power": 15000
+        },
+        "neededFood": 27500,
+        "neededTime": 960,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 27500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 125000,
+          "Power": 19000
+        },
+        "neededFood": 53000,
+        "neededTime": 1620,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 53000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 220000,
+          "Power": 25000
+        },
+        "neededFood": 95000,
+        "neededTime": 3060,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 95000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 425000,
+          "Power": 34000
+        },
+        "neededFood": 200000,
+        "neededTime": 4800,
+        "neededStone": 3500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 725000,
+          "Power": 42000
+        },
+        "neededFood": 290000,
+        "neededTime": 7200,
+        "neededStone": 10000,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1300000,
+          "Power": 50000
+        },
+        "neededFood": 400000,
+        "neededTime": 11700,
+        "neededStone": 20000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 2000000,
+          "Power": 60000
+        },
+        "neededFood": 550000,
+        "neededTime": 14100,
+        "neededStone": 45000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 550000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 3300000,
+          "Power": 75000
+        },
+        "neededFood": 900000,
+        "neededTime": 16800,
+        "neededStone": 90000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 900000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 4700000,
+          "Power": 90000
+        },
+        "neededFood": 1250000,
+        "neededTime": 20400,
+        "neededStone": 170000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 7000,
+        "neededLumber": 1250000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 6200000,
+          "Power": 110000
+        },
+        "neededFood": 1800000,
+        "neededTime": 26400,
+        "neededStone": 320000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 24000,
+        "neededLumber": 1800000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 7500000,
+          "Power": 130000
+        },
+        "neededFood": 2600000,
+        "neededTime": 33000,
+        "neededStone": 500000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 52000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 9000000,
+          "Power": 155000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42600,
+        "neededStone": 700000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 100000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 10500000,
+          "Power": 170000
+        },
+        "neededFood": 4500000,
+        "neededTime": 55800,
+        "neededStone": 960000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 180000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 12500000,
+          "Power": 190000
+        },
+        "neededFood": 5800000,
+        "neededTime": 78000,
+        "neededStone": 1350000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 280000,
+        "neededLumber": 5800000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 15000000,
+          "Power": 220000
+        },
+        "neededFood": 7500000,
+        "neededTime": 108000,
+        "neededStone": 1900000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 470000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 19000000,
+          "Power": 260000
+        },
+        "neededFood": 9500000,
+        "neededTime": 151200,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 760000,
+        "neededLumber": 9500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 25000000,
+          "Power": 300000
+        },
+        "neededFood": 13000000,
+        "neededTime": 208800,
+        "neededStone": 3600000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 1100000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 34000000,
+          "Power": 350000
+        },
+        "neededFood": 17500000,
+        "neededTime": 288000,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1500000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 45000000,
+          "Power": 430000
+        },
+        "neededFood": 23500000,
+        "neededTime": 338400,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1900000,
+        "neededLumber": 23500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 58000000,
+          "Power": 550000
+        },
+        "neededFood": 31000000,
+        "neededTime": 396000,
+        "neededStone": 8800000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 2500000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 75000000,
+          "Power": 700000
+        },
+        "neededFood": 45000000,
+        "neededTime": 464400,
+        "neededStone": 11500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 3200000,
+        "neededLumber": 45000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 95000000,
+          "Power": 850000
+        },
+        "neededFood": 52000000,
+        "neededTime": 540000,
+        "neededStone": 15000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 4000000,
+        "neededLumber": 52000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 120000000,
+          "Power": 1000000
+        },
+        "neededFood": 65000000,
+        "neededTime": 630000,
+        "neededStone": 18000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      }
+    ],
+    "description": "Storage for your shelter's resources",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Lumber",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 50,
+          "MaxCapacity": 6000,
+          "RssPerHour": 30
+        },
+        "neededFood": 150,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 150
+      },
+      {
+        "benefits": {
+          "Power": 100,
+          "MaxCapacity": 7800,
+          "RssPerHour": 40
+        },
+        "neededFood": 250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_1",
+        "neededOre": 0,
+        "neededLumber": 250
+      },
+      {
+        "benefits": {
+          "Power": 200,
+          "MaxCapacity": 12000,
+          "RssPerHour": 50
+        },
+        "neededFood": 350,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_2",
+        "neededOre": 0,
+        "neededLumber": 350
+      },
+      {
+        "benefits": {
+          "Power": 300,
+          "MaxCapacity": 18000,
+          "RssPerHour": 60
+        },
+        "neededFood": 450,
+        "neededTime": 90,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_3",
+        "neededOre": 0,
+        "neededLumber": 450
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "MaxCapacity": 30000,
+          "RssPerHour": 80
+        },
+        "neededFood": 600,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_4",
+        "neededOre": 0,
+        "neededLumber": 600
+      },
+      {
+        "benefits": {
+          "Power": 800,
+          "MaxCapacity": 60000,
+          "RssPerHour": 100
+        },
+        "neededFood": 800,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_5",
+        "neededOre": 0,
+        "neededLumber": 800
+      },
+      {
+        "benefits": {
+          "Power": 1250,
+          "MaxCapacity": 90000,
+          "RssPerHour": 130
+        },
+        "neededFood": 1200,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_6",
+        "neededOre": 0,
+        "neededLumber": 1200
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "MaxCapacity": 135000,
+          "RssPerHour": 160
+        },
+        "neededFood": 1750,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_7",
+        "neededOre": 0,
+        "neededLumber": 1750
+      },
+      {
+        "benefits": {
+          "Power": 2500,
+          "MaxCapacity": 180000,
+          "RssPerHour": 220
+        },
+        "neededFood": 3500,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_8",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 3200,
+          "MaxCapacity": 240000,
+          "RssPerHour": 280
+        },
+        "neededFood": 6000,
+        "neededTime": 780,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_9",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "Power": 4500,
+          "MaxCapacity": 360000,
+          "RssPerHour": 360
+        },
+        "neededFood": 12500,
+        "neededTime": 1200,
+        "neededStone": 200,
+        "requiredBuildings": "Storehouse_10",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 5500,
+          "MaxCapacity": 480000,
+          "RssPerHour": 470
+        },
+        "neededFood": 18000,
+        "neededTime": 1800,
+        "neededStone": 800,
+        "requiredBuildings": "Storehouse_11",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "MaxCapacity": 600000,
+          "RssPerHour": 620
+        },
+        "neededFood": 24000,
+        "neededTime": 2880,
+        "neededStone": 1500,
+        "requiredBuildings": "Storehouse_12",
+        "neededOre": 0,
+        "neededLumber": 24000
+      },
+      {
+        "benefits": {
+          "Power": 9000,
+          "MaxCapacity": 720000,
+          "RssPerHour": 800
+        },
+        "neededFood": 34000,
+        "neededTime": 3600,
+        "neededStone": 3000,
+        "requiredBuildings": "Storehouse_13",
+        "neededOre": 0,
+        "neededLumber": 34000
+      },
+      {
+        "benefits": {
+          "Power": 12000,
+          "MaxCapacity": 840000,
+          "RssPerHour": 1000
+        },
+        "neededFood": 55000,
+        "neededTime": 4200,
+        "neededStone": 5000,
+        "requiredBuildings": "Storehouse_14",
+        "neededOre": 0,
+        "neededLumber": 55000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "MaxCapacity": 960000,
+          "RssPerHour": 1300
+        },
+        "neededFood": 78000,
+        "neededTime": 5100,
+        "neededStone": 10000,
+        "requiredBuildings": "Storehouse_15",
+        "neededOre": 400,
+        "neededLumber": 78000
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "MaxCapacity": 1200000,
+          "RssPerHour": 1700
+        },
+        "neededFood": 115000,
+        "neededTime": 6600,
+        "neededStone": 20000,
+        "requiredBuildings": "Storehouse_16",
+        "neededOre": 1500,
+        "neededLumber": 115000
+      },
+      {
+        "benefits": {
+          "Power": 24000,
+          "MaxCapacity": 1500000,
+          "RssPerHour": 2200
+        },
+        "neededFood": 160000,
+        "neededTime": 8400,
+        "neededStone": 30000,
+        "requiredBuildings": "Storehouse_17",
+        "neededOre": 3000,
+        "neededLumber": 160000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "MaxCapacity": 1800000,
+          "RssPerHour": 2900
+        },
+        "neededFood": 215000,
+        "neededTime": 10800,
+        "neededStone": 42000,
+        "requiredBuildings": "Storehouse_18",
+        "neededOre": 7000,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 36000,
+          "MaxCapacity": 2100000,
+          "RssPerHour": 3700
+        },
+        "neededFood": 280000,
+        "neededTime": 14100,
+        "neededStone": 60000,
+        "requiredBuildings": "Storehouse_19",
+        "neededOre": 12000,
+        "neededLumber": 280000
+      },
+      {
+        "benefits": {
+          "Power": 45000,
+          "MaxCapacity": 2520000,
+          "RssPerHour": 4800
+        },
+        "neededFood": 360000,
+        "neededTime": 19800,
+        "neededStone": 80000,
+        "requiredBuildings": "Storehouse_20",
+        "neededOre": 18000,
+        "neededLumber": 360000
+      },
+      {
+        "benefits": {
+          "Power": 55000,
+          "MaxCapacity": 3000000,
+          "RssPerHour": 6300
+        },
+        "neededFood": 458000,
+        "neededTime": 27000,
+        "neededStone": 115000,
+        "requiredBuildings": "Storehouse_21",
+        "neededOre": 30000,
+        "neededLumber": 458000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "MaxCapacity": 3420000,
+          "RssPerHour": 8000
+        },
+        "neededFood": 600000,
+        "neededTime": 37800,
+        "neededStone": 160000,
+        "requiredBuildings": "Storehouse_22",
+        "neededOre": 47500,
+        "neededLumber": 600000
+      },
+      {
+        "benefits": {
+          "Power": 80000,
+          "MaxCapacity": 3900000,
+          "RssPerHour": 10000
+        },
+        "neededFood": 800000,
+        "neededTime": 52200,
+        "neededStone": 225000,
+        "requiredBuildings": "Storehouse_23",
+        "neededOre": 65000,
+        "neededLumber": 800000
+      },
+      {
+        "benefits": {
+          "Power": 95000,
+          "MaxCapacity": 4500000,
+          "RssPerHour": 13500
+        },
+        "neededFood": 1100000,
+        "neededTime": 71400,
+        "neededStone": 300000,
+        "requiredBuildings": "Storehouse_24",
+        "neededOre": 90000,
+        "neededLumber": 1100000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "MaxCapacity": 5100000,
+          "RssPerHour": 17500
+        },
+        "neededFood": 1500000,
+        "neededTime": 84600,
+        "neededStone": 380000,
+        "requiredBuildings": "Storehouse_25",
+        "neededOre": 120000,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "Power": 140000,
+          "MaxCapacity": 6000000,
+          "RssPerHour": 23000
+        },
+        "neededFood": 2000000,
+        "neededTime": 99000,
+        "neededStone": 500000,
+        "requiredBuildings": "Storehouse_26",
+        "neededOre": 150000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "MaxCapacity": 7200000,
+          "RssPerHour": 30000
+        },
+        "neededFood": 2600000,
+        "neededTime": 117000,
+        "neededStone": 650000,
+        "requiredBuildings": "Storehouse_27",
+        "neededOre": 180000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "MaxCapacity": 8400000,
+          "RssPerHour": 40000
+        },
+        "neededFood": 3200000,
+        "neededTime": 135000,
+        "neededStone": 800000,
+        "requiredBuildings": "Storehouse_28",
+        "neededOre": 210000,
+        "neededLumber": 3200000
+      },
+      {
+        "benefits": {
+          "Power": 250000,
+          "MaxCapacity": 9600000,
+          "RssPerHour": 50000
+        },
+        "neededFood": 4000000,
+        "neededTime": 158400,
+        "neededStone": 1000000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 250000,
+        "neededLumber": 4000000
+      }
+    ],
+    "maxBuilds": 4,
+    "description": "Produce lumber for construction work"
+  },
+  {
+    "ObjectName": "GuardShack",
+    "Construction": [
+      {
+        "benefits": {
+          "TroopAttackPercent": 1,
+          "Power": 1000
+        },
+        "neededFood": 6000,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 2,
+          "Power": 2500
+        },
+        "neededFood": 12000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 12000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 3,
+          "Power": 6000
+        },
+        "neededFood": 18000,
+        "neededTime": 300,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_2",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 4,
+          "Power": 10000
+        },
+        "neededFood": 25000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 25000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 5,
+          "Power": 15000
+        },
+        "neededFood": 34000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 34000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 6,
+          "Power": 25000
+        },
+        "neededFood": 45000,
+        "neededTime": 900,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 45000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 7,
+          "Power": 40000
+        },
+        "neededFood": 63000,
+        "neededTime": 2400,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 63000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 8,
+          "Power": 60000
+        },
+        "neededFood": 100000,
+        "neededTime": 4200,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 100000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 9,
+          "Power": 80000
+        },
+        "neededFood": 200000,
+        "neededTime": 7200,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 10,
+          "Power": 110000
+        },
+        "neededFood": 360000,
+        "neededTime": 10800,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 360000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 11,
+          "Power": 135000
+        },
+        "neededFood": 700000,
+        "neededTime": 14400,
+        "neededStone": 15000,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 700000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 12,
+          "Power": 150000
+        },
+        "neededFood": 1200000,
+        "neededTime": 25200,
+        "neededStone": 40000,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 1200000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 13,
+          "Power": 170000
+        },
+        "neededFood": 1500000,
+        "neededTime": 39600,
+        "neededStone": 75000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 14,
+          "Power": 200000
+        },
+        "neededFood": 2000000,
+        "neededTime": 46800,
+        "neededStone": 150000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 15,
+          "Power": 240000
+        },
+        "neededFood": 3200000,
+        "neededTime": 57600,
+        "neededStone": 320000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 3200000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 16,
+          "Power": 290000
+        },
+        "neededFood": 4500000,
+        "neededTime": 72000,
+        "neededStone": 600000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 25000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 17,
+          "Power": 340000
+        },
+        "neededFood": 7000000,
+        "neededTime": 90000,
+        "neededStone": 1200000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 80000,
+        "neededLumber": 7000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 18,
+          "Power": 400000
+        },
+        "neededFood": 10000000,
+        "neededTime": 115200,
+        "neededStone": 1750000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 200000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 19,
+          "Power": 480000
+        },
+        "neededFood": 12500000,
+        "neededTime": 158400,
+        "neededStone": 2500000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 350000,
+        "neededLumber": 12500000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 20,
+          "Power": 550000
+        },
+        "neededFood": 16000000,
+        "neededTime": 194400,
+        "neededStone": 3500000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 620000,
+        "neededLumber": 16000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 21,
+          "Power": 650000
+        },
+        "neededFood": 22500000,
+        "neededTime": 273600,
+        "neededStone": 4800000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 1250000,
+        "neededLumber": 22500000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 22,
+          "Power": 750000
+        },
+        "neededFood": 28000000,
+        "neededTime": 378000,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 1700000,
+        "neededLumber": 28000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 23,
+          "Power": 900000
+        },
+        "neededFood": 35000000,
+        "neededTime": 529200,
+        "neededStone": 9000000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 2800000,
+        "neededLumber": 35000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 24,
+          "Power": 1100000
+        },
+        "neededFood": 48000000,
+        "neededTime": 727200,
+        "neededStone": 12500000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 3800000,
+        "neededLumber": 48000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 25,
+          "Power": 1300000
+        },
+        "neededFood": 65000000,
+        "neededTime": 1036800,
+        "neededStone": 17000000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 26,
+          "Power": 1600000
+        },
+        "neededFood": 85000000,
+        "neededTime": 1209600,
+        "neededStone": 23000000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 6600000,
+        "neededLumber": 85000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 27,
+          "Power": 2000000
+        },
+        "neededFood": 120000000,
+        "neededTime": 1382400,
+        "neededStone": 32000000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 9000000,
+        "neededLumber": 120000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 28,
+          "Power": 2400000
+        },
+        "neededFood": 150000000,
+        "neededTime": 1641600,
+        "neededStone": 42000000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 12000000,
+        "neededLumber": 150000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 29,
+          "Power": 2900000
+        },
+        "neededFood": 190000000,
+        "neededTime": 1900800,
+        "neededStone": 53000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 15000000,
+        "neededLumber": 190000000
+      },
+      {
+        "benefits": {
+          "TroopAttackPercent": 30,
+          "Power": 3500000
+        },
+        "neededFood": 240000000,
+        "neededTime": 2203200,
+        "neededStone": 65000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 20000000,
+        "neededLumber": 240000000
+      }
+    ],
+    "description": "Enhance your shelter's security",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "TradingMarket",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 150,
+          "ReceiverTax": 29
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "ReceiverTax": 29
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "Power": 1000,
+          "ReceiverTax": 28
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "ReceiverTax": 28
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "ReceiverTax": 27
+        },
+        "neededFood": 7500,
+        "neededTime": 300,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "ReceiverTax": 27
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "Power": 7500,
+          "ReceiverTax": 26
+        },
+        "neededFood": 14000,
+        "neededTime": 390,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "ReceiverTax": 26
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "ReceiverTax": 25
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "Power": 20000,
+          "ReceiverTax": 25
+        },
+        "neededFood": 70000,
+        "neededTime": 2280,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "ReceiverTax": 24
+        },
+        "neededFood": 150000,
+        "neededTime": 3420,
+        "neededStone": 2500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "ReceiverTax": 24
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "ReceiverTax": 23
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 40000,
+          "ReceiverTax": 22
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "ReceiverTax": 21
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "Power": 56000,
+          "ReceiverTax": 20
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "ReceiverTax": 19
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "ReceiverTax": 18
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "ReceiverTax": 17
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "ReceiverTax": 16
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "ReceiverTax": 15
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "Power": 160000,
+          "ReceiverTax": 14
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "Power": 180000,
+          "ReceiverTax": 13
+        },
+        "neededFood": 7500000,
+        "neededTime": 133440,
+        "neededStone": 2000000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "ReceiverTax": 12
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "Power": 230000,
+          "ReceiverTax": 11
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "Power": 280000,
+          "ReceiverTax": 10
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "ReceiverTax": 9
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "Power": 450000,
+          "ReceiverTax": 8
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 600000,
+          "ReceiverTax": 7
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "Power": 800000,
+          "ReceiverTax": 5
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "description": "Trade resources with your allies",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Ore",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 50,
+          "MaxCapacity": 1200,
+          "RssPerHour": 8
+        },
+        "neededFood": 150,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 150
+      },
+      {
+        "benefits": {
+          "Power": 100,
+          "MaxCapacity": 1560,
+          "RssPerHour": 10
+        },
+        "neededFood": 250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_15",
+        "neededOre": 0,
+        "neededLumber": 250
+      },
+      {
+        "benefits": {
+          "Power": 200,
+          "MaxCapacity": 2400,
+          "RssPerHour": 13
+        },
+        "neededFood": 350,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_16",
+        "neededOre": 0,
+        "neededLumber": 350
+      },
+      {
+        "benefits": {
+          "Power": 300,
+          "MaxCapacity": 3600,
+          "RssPerHour": 15
+        },
+        "neededFood": 450,
+        "neededTime": 90,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_17",
+        "neededOre": 0,
+        "neededLumber": 450
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "MaxCapacity": 6000,
+          "RssPerHour": 20
+        },
+        "neededFood": 600,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_18",
+        "neededOre": 0,
+        "neededLumber": 600
+      },
+      {
+        "benefits": {
+          "Power": 800,
+          "MaxCapacity": 12000,
+          "RssPerHour": 25
+        },
+        "neededFood": 800,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_19",
+        "neededOre": 0,
+        "neededLumber": 800
+      },
+      {
+        "benefits": {
+          "Power": 1250,
+          "MaxCapacity": 18000,
+          "RssPerHour": 33
+        },
+        "neededFood": 1200,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_20",
+        "neededOre": 0,
+        "neededLumber": 1200
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "MaxCapacity": 27000,
+          "RssPerHour": 40
+        },
+        "neededFood": 1750,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_21",
+        "neededOre": 0,
+        "neededLumber": 1750
+      },
+      {
+        "benefits": {
+          "Power": 2500,
+          "MaxCapacity": 36000,
+          "RssPerHour": 55
+        },
+        "neededFood": 3500,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_22",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 3200,
+          "MaxCapacity": 48000,
+          "RssPerHour": 70
+        },
+        "neededFood": 6000,
+        "neededTime": 780,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_23",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "Power": 4500,
+          "MaxCapacity": 72000,
+          "RssPerHour": 90
+        },
+        "neededFood": 12500,
+        "neededTime": 1200,
+        "neededStone": 200,
+        "requiredBuildings": "Storehouse_24",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 5500,
+          "MaxCapacity": 96000,
+          "RssPerHour": 118
+        },
+        "neededFood": 18000,
+        "neededTime": 1800,
+        "neededStone": 800,
+        "requiredBuildings": "Storehouse_25",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "MaxCapacity": 120000,
+          "RssPerHour": 155
+        },
+        "neededFood": 24000,
+        "neededTime": 2880,
+        "neededStone": 1500,
+        "requiredBuildings": "Storehouse_26",
+        "neededOre": 0,
+        "neededLumber": 24000
+      },
+      {
+        "benefits": {
+          "Power": 9000,
+          "MaxCapacity": 144000,
+          "RssPerHour": 200
+        },
+        "neededFood": 34000,
+        "neededTime": 3600,
+        "neededStone": 3000,
+        "requiredBuildings": "Storehouse_27",
+        "neededOre": 0,
+        "neededLumber": 34000
+      },
+      {
+        "benefits": {
+          "Power": 12000,
+          "MaxCapacity": 168000,
+          "RssPerHour": 250
+        },
+        "neededFood": 55000,
+        "neededTime": 4200,
+        "neededStone": 5000,
+        "requiredBuildings": "Storehouse_28",
+        "neededOre": 0,
+        "neededLumber": 55000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "MaxCapacity": 192000,
+          "RssPerHour": 325
+        },
+        "neededFood": 78000,
+        "neededTime": 5100,
+        "neededStone": 10000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 400,
+        "neededLumber": 78000
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "MaxCapacity": 240000,
+          "RssPerHour": 425
+        },
+        "neededFood": 115000,
+        "neededTime": 6600,
+        "neededStone": 20000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 1500,
+        "neededLumber": 115000
+      },
+      {
+        "benefits": {
+          "Power": 24000,
+          "MaxCapacity": 300000,
+          "RssPerHour": 550
+        },
+        "neededFood": 160000,
+        "neededTime": 8400,
+        "neededStone": 30000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 3000,
+        "neededLumber": 160000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "MaxCapacity": 360000,
+          "RssPerHour": 725
+        },
+        "neededFood": 215000,
+        "neededTime": 10800,
+        "neededStone": 42000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 7000,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 36000,
+          "MaxCapacity": 420000,
+          "RssPerHour": 925
+        },
+        "neededFood": 280000,
+        "neededTime": 14100,
+        "neededStone": 60000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 12000,
+        "neededLumber": 280000
+      },
+      {
+        "benefits": {
+          "Power": 45000,
+          "MaxCapacity": 504000,
+          "RssPerHour": 1200
+        },
+        "neededFood": 360000,
+        "neededTime": 19800,
+        "neededStone": 80000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 18000,
+        "neededLumber": 360000
+      },
+      {
+        "benefits": {
+          "Power": 55000,
+          "MaxCapacity": 600000,
+          "RssPerHour": 1575
+        },
+        "neededFood": 458000,
+        "neededTime": 27000,
+        "neededStone": 115000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 30000,
+        "neededLumber": 458000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "MaxCapacity": 684000,
+          "RssPerHour": 2000
+        },
+        "neededFood": 600000,
+        "neededTime": 37800,
+        "neededStone": 160000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 47500,
+        "neededLumber": 600000
+      },
+      {
+        "benefits": {
+          "Power": 80000,
+          "MaxCapacity": 780000,
+          "RssPerHour": 2500
+        },
+        "neededFood": 800000,
+        "neededTime": 52200,
+        "neededStone": 225000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 65000,
+        "neededLumber": 800000
+      },
+      {
+        "benefits": {
+          "Power": 95000,
+          "MaxCapacity": 900000,
+          "RssPerHour": 3375
+        },
+        "neededFood": 1100000,
+        "neededTime": 71400,
+        "neededStone": 300000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 90000,
+        "neededLumber": 1100000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "MaxCapacity": 1020000,
+          "RssPerHour": 4375
+        },
+        "neededFood": 1500000,
+        "neededTime": 84600,
+        "neededStone": 380000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 120000,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "Power": 140000,
+          "MaxCapacity": 1200000,
+          "RssPerHour": 5750
+        },
+        "neededFood": 2000000,
+        "neededTime": 99000,
+        "neededStone": 500000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 150000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "MaxCapacity": 1440000,
+          "RssPerHour": 7500
+        },
+        "neededFood": 2600000,
+        "neededTime": 117000,
+        "neededStone": 650000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 180000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "MaxCapacity": 1680000,
+          "RssPerHour": 10000
+        },
+        "neededFood": 3200000,
+        "neededTime": 135000,
+        "neededStone": 800000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 210000,
+        "neededLumber": 3200000
+      },
+      {
+        "benefits": {
+          "Power": 250000,
+          "MaxCapacity": 1920000,
+          "RssPerHour": 12500
+        },
+        "neededFood": 4000000,
+        "neededTime": 158400,
+        "neededStone": 1000000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 250000,
+        "neededLumber": 4000000
+      }
+    ],
+    "description": "Extract ore material for construction use",
+    "maxBuilds": 4
+  },
+  {
+    "ObjectName": "Artillery",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 150,
+          "TrainingCapacity": 5
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "TrainingCapacity": 7
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "Power": 1000,
+          "TrainingCapacity": 9
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_2",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "TrainingCapacity": 11
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_3",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "TrainingCapacity": 13
+        },
+        "neededFood": 7500,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "TrainingCapacity": 15
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "Power": 7500,
+          "TrainingCapacity": 17
+        },
+        "neededFood": 14000,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "TrainingCapacity": 19
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "TrainingCapacity": 21
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "Power": 20000,
+          "TrainingCapacity": 28
+        },
+        "neededFood": 70000,
+        "neededTime": 2400,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "TrainingCapacity": 35
+        },
+        "neededFood": 150000,
+        "neededTime": 3600,
+        "neededStone": 2500,
+        "requiredBuildings": "TrainingGrounds_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "TrainingCapacity": 42
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "TrainingGrounds_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "TrainingCapacity": 49
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "TrainingGrounds_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 40000,
+          "TrainingCapacity": 56
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "TrainingGrounds_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "TrainingCapacity": 63
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "TrainingGrounds_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "Power": 56000,
+          "TrainingCapacity": 70
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "TrainingGrounds_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "TrainingCapacity": 77
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "TrainingGrounds_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "TrainingCapacity": 84
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "TrainingGrounds_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "TrainingCapacity": 91
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "TrainingGrounds_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "TrainingCapacity": 98
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "TrainingGrounds_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "TrainingCapacity": 105
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "TrainingGrounds_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "Power": 160000,
+          "TrainingCapacity": 112
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "TrainingGrounds_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "Power": 180000,
+          "TrainingCapacity": 119
+        },
+        "neededFood": 7500000,
+        "neededTime": 113400,
+        "neededStone": 2000000,
+        "requiredBuildings": "TrainingGrounds_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "TrainingCapacity": 126
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "TrainingGrounds_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "Power": 230000,
+          "TrainingCapacity": 133
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "TrainingGrounds_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "Power": 280000,
+          "TrainingCapacity": 140
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "TrainingGrounds_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "TrainingCapacity": 150
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "TrainingGrounds_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "Power": 450000,
+          "TrainingCapacity": 160
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "TrainingGrounds_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 600000,
+          "TrainingCapacity": 180
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "TrainingGrounds_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "Power": 800000,
+          "TrainingCapacity": 200
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "TrainingGrounds_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "description": "Train your shelter's muscle power with Artillery units",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Fortification",
+    "Construction": [
+      {
+        "benefits": {
+          "WallDurability": 10000,
+          "Power": 150
+        },
+        "neededFood": 1250,
+        "neededTime": 5,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "WallDurability": 11000,
+          "Power": 500
+        },
+        "neededFood": 2500,
+        "neededTime": 5,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "WallDurability": 12000,
+          "Power": 1000
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_2",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "WallDurability": 13000,
+          "Power": 2000
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "WallDurability": 14000,
+          "Power": 3000
+        },
+        "neededFood": 7500,
+        "neededTime": 300,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "WallDurability": 15000,
+          "Power": 5000
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "WallDurability": 16000,
+          "Power": 7500
+        },
+        "neededFood": 14000,
+        "neededTime": 390,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "WallDurability": 17000,
+          "Power": 10000
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "WallDurability": 18000,
+          "Power": 15000
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "WallDurability": 19000,
+          "Power": 20000
+        },
+        "neededFood": 70000,
+        "neededTime": 2280,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "WallDurability": 20000,
+          "Power": 25000
+        },
+        "neededFood": 150000,
+        "neededTime": 3420,
+        "neededStone": 2500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "WallDurability": 21000,
+          "Power": 30000
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "WallDurability": 22000,
+          "Power": 35000
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "WallDurability": 23000,
+          "Power": 40000
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "WallDurability": 24000,
+          "Power": 48000
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "WallDurability": 25000,
+          "Power": 56000
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "WallDurability": 26000,
+          "Power": 65000
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "WallDurability": 27000,
+          "Power": 75000
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "WallDurability": 28000,
+          "Power": 90000
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "WallDurability": 29000,
+          "Power": 110000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "WallDurability": 30000,
+          "Power": 130000
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "WallDurability": 31000,
+          "Power": 160000
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "WallDurability": 32000,
+          "Power": 180000
+        },
+        "neededFood": 7500000,
+        "neededTime": 133440,
+        "neededStone": 2000000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "WallDurability": 33000,
+          "Power": 200000
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "WallDurability": 34000,
+          "Power": 230000
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "WallDurability": 35000,
+          "Power": 280000
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "WallDurability": 36000,
+          "Power": 350000
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "WallDurability": 37000,
+          "Power": 450000
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "WallDurability": 38000,
+          "Power": 600000
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "WallDurability": 39000,
+          "Power": 800000
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "description": "Your shelter's defense wall",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Cavalry",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 150,
+          "TrainingCapacity": 5
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "TrainingCapacity": 7
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "Power": 1000,
+          "TrainingCapacity": 9
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_2",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "TrainingCapacity": 11
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_3",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "TrainingCapacity": 13
+        },
+        "neededFood": 7500,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "TrainingCapacity": 15
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "Power": 7500,
+          "TrainingCapacity": 17
+        },
+        "neededFood": 14000,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "TrainingCapacity": 19
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "TrainingCapacity": 21
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "Power": 20000,
+          "TrainingCapacity": 28
+        },
+        "neededFood": 70000,
+        "neededTime": 2400,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "TrainingCapacity": 35
+        },
+        "neededFood": 150000,
+        "neededTime": 3600,
+        "neededStone": 2500,
+        "requiredBuildings": "TrainingGrounds_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "TrainingCapacity": 42
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "TrainingGrounds_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "TrainingCapacity": 49
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "TrainingGrounds_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 40000,
+          "TrainingCapacity": 56
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "TrainingGrounds_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "TrainingCapacity": 63
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "TrainingGrounds_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "Power": 56000,
+          "TrainingCapacity": 70
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "TrainingGrounds_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "TrainingCapacity": 77
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "TrainingGrounds_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "TrainingCapacity": 84
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "TrainingGrounds_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "TrainingCapacity": 91
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "TrainingGrounds_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "TrainingCapacity": 98
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "TrainingGrounds_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "TrainingCapacity": 105
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "TrainingGrounds_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "Power": 160000,
+          "TrainingCapacity": 112
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "TrainingGrounds_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "Power": 180000,
+          "TrainingCapacity": 119
+        },
+        "neededFood": 7500000,
+        "neededTime": 113400,
+        "neededStone": 2000000,
+        "requiredBuildings": "TrainingGrounds_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "TrainingCapacity": 126
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "TrainingGrounds_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "Power": 230000,
+          "TrainingCapacity": 133
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "TrainingGrounds_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "Power": 280000,
+          "TrainingCapacity": 140
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "TrainingGrounds_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "TrainingCapacity": 150
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "TrainingGrounds_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "Power": 450000,
+          "TrainingCapacity": 160
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "TrainingGrounds_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 600000,
+          "TrainingCapacity": 180
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "TrainingGrounds_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "Power": 800000,
+          "TrainingCapacity": 200
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "TrainingGrounds_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "description": "Train your Cavalry to fight another day",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "RallyPoint",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 250,
+          "RallyCapacity": 1500
+        },
+        "neededFood": 1500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 1500
+      },
+      {
+        "benefits": {
+          "Power": 700,
+          "RallyCapacity": 3500
+        },
+        "neededFood": 3500,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 1500,
+          "RallyCapacity": 6000
+        },
+        "neededFood": 5000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 5000
+      },
+      {
+        "benefits": {
+          "Power": 2600,
+          "RallyCapacity": 9000
+        },
+        "neededFood": 7000,
+        "neededTime": 330,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "Power": 4000,
+          "RallyCapacity": 12000
+        },
+        "neededFood": 9000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 9000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "RallyCapacity": 15000
+        },
+        "neededFood": 12500,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 11000,
+          "RallyCapacity": 19000
+        },
+        "neededFood": 18000,
+        "neededTime": 510,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "RallyCapacity": 24000
+        },
+        "neededFood": 27500,
+        "neededTime": 960,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 27500
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "RallyCapacity": 30000
+        },
+        "neededFood": 53000,
+        "neededTime": 1620,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 53000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "RallyCapacity": 36000
+        },
+        "neededFood": 95000,
+        "neededTime": 3060,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_9",
+        "neededOre": 0,
+        "neededLumber": 95000
+      },
+      {
+        "benefits": {
+          "Power": 34000,
+          "RallyCapacity": 43000
+        },
+        "neededFood": 200000,
+        "neededTime": 4800,
+        "neededStone": 3500,
+        "requiredBuildings": "GuardShack_10",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "Power": 42000,
+          "RallyCapacity": 52000
+        },
+        "neededFood": 290000,
+        "neededTime": 7200,
+        "neededStone": 10000,
+        "requiredBuildings": "GuardShack_11",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 50000,
+          "RallyCapacity": 62000
+        },
+        "neededFood": 400000,
+        "neededTime": 11700,
+        "neededStone": 20000,
+        "requiredBuildings": "GuardShack_12",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 60000,
+          "RallyCapacity": 74000
+        },
+        "neededFood": 550000,
+        "neededTime": 14100,
+        "neededStone": 45000,
+        "requiredBuildings": "GuardShack_13",
+        "neededOre": 0,
+        "neededLumber": 550000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "RallyCapacity": 87000
+        },
+        "neededFood": 900000,
+        "neededTime": 16800,
+        "neededStone": 90000,
+        "requiredBuildings": "GuardShack_14",
+        "neededOre": 0,
+        "neededLumber": 900000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "RallyCapacity": 100000
+        },
+        "neededFood": 1250000,
+        "neededTime": 20400,
+        "neededStone": 170000,
+        "requiredBuildings": "GuardShack_15",
+        "neededOre": 7000,
+        "neededLumber": 1250000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "RallyCapacity": 120000
+        },
+        "neededFood": 1800000,
+        "neededTime": 26400,
+        "neededStone": 320000,
+        "requiredBuildings": "GuardShack_16",
+        "neededOre": 24000,
+        "neededLumber": 1800000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "RallyCapacity": 140000
+        },
+        "neededFood": 2600000,
+        "neededTime": 33000,
+        "neededStone": 500000,
+        "requiredBuildings": "GuardShack_17",
+        "neededOre": 52000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 155000,
+          "RallyCapacity": 165000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42600,
+        "neededStone": 700000,
+        "requiredBuildings": "GuardShack_18",
+        "neededOre": 100000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "RallyCapacity": 190000
+        },
+        "neededFood": 4500000,
+        "neededTime": 55800,
+        "neededStone": 960000,
+        "requiredBuildings": "GuardShack_19",
+        "neededOre": 180000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "Power": 190000,
+          "RallyCapacity": 225000
+        },
+        "neededFood": 5800000,
+        "neededTime": 78000,
+        "neededStone": 1350000,
+        "requiredBuildings": "GuardShack_20",
+        "neededOre": 280000,
+        "neededLumber": 5800000
+      },
+      {
+        "benefits": {
+          "Power": 220000,
+          "RallyCapacity": 260000
+        },
+        "neededFood": 7500000,
+        "neededTime": 108000,
+        "neededStone": 1900000,
+        "requiredBuildings": "GuardShack_21",
+        "neededOre": 470000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 260000,
+          "RallyCapacity": 310000
+        },
+        "neededFood": 9500000,
+        "neededTime": 151200,
+        "neededStone": 2700000,
+        "requiredBuildings": "GuardShack_22",
+        "neededOre": 760000,
+        "neededLumber": 9500000
+      },
+      {
+        "benefits": {
+          "Power": 300000,
+          "RallyCapacity": 360000
+        },
+        "neededFood": 13000000,
+        "neededTime": 208800,
+        "neededStone": 3600000,
+        "requiredBuildings": "GuardShack_23",
+        "neededOre": 1100000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "RallyCapacity": 420000
+        },
+        "neededFood": 17500000,
+        "neededTime": 288000,
+        "neededStone": 5000000,
+        "requiredBuildings": "GuardShack_24",
+        "neededOre": 1500000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 430000,
+          "RallyCapacity": 490000
+        },
+        "neededFood": 23500000,
+        "neededTime": 338400,
+        "neededStone": 6500000,
+        "requiredBuildings": "GuardShack_25",
+        "neededOre": 1900000,
+        "neededLumber": 23500000
+      },
+      {
+        "benefits": {
+          "Power": 550000,
+          "RallyCapacity": 580000
+        },
+        "neededFood": 31000000,
+        "neededTime": 396000,
+        "neededStone": 8800000,
+        "requiredBuildings": "GuardShack_26",
+        "neededOre": 2500000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 700000,
+          "RallyCapacity": 650000
+        },
+        "neededFood": 45000000,
+        "neededTime": 464400,
+        "neededStone": 11500000,
+        "requiredBuildings": "GuardShack_27",
+        "neededOre": 3200000,
+        "neededLumber": 45000000
+      },
+      {
+        "benefits": {
+          "Power": 850000,
+          "RallyCapacity": 750000
+        },
+        "neededFood": 52000000,
+        "neededTime": 540000,
+        "neededStone": 15000000,
+        "requiredBuildings": "GuardShack_28",
+        "neededOre": 4000000,
+        "neededLumber": 52000000
+      },
+      {
+        "benefits": {
+          "Power": 1000000,
+          "RallyCapacity": 900000
+        },
+        "neededFood": 65000000,
+        "neededTime": 630000,
+        "neededStone": 18000000,
+        "requiredBuildings": "GuardShack_29",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      }
+    ],
+    "description": "Enhance your shelter's reinforcement capacity",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Shooters",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 150,
+          "TrainingCapacity": 5
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "TrainingCapacity": 7
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "Power": 1000,
+          "TrainingCapacity": 9
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_2",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "TrainingCapacity": 11
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_3",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "TrainingCapacity": 13
+        },
+        "neededFood": 7500,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "TrainingCapacity": 15
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "Power": 7500,
+          "TrainingCapacity": 17
+        },
+        "neededFood": 14000,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "TrainingCapacity": 19
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "TrainingCapacity": 21
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "Power": 20000,
+          "TrainingCapacity": 28
+        },
+        "neededFood": 70000,
+        "neededTime": 2400,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "TrainingCapacity": 35
+        },
+        "neededFood": 150000,
+        "neededTime": 3600,
+        "neededStone": 2500,
+        "requiredBuildings": "TrainingGrounds_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "TrainingCapacity": 42
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "TrainingGrounds_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "TrainingCapacity": 49
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "TrainingGrounds_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 40000,
+          "TrainingCapacity": 56
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "TrainingGrounds_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "TrainingCapacity": 63
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "TrainingGrounds_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "Power": 56000,
+          "TrainingCapacity": 70
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "TrainingGrounds_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "TrainingCapacity": 77
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "TrainingGrounds_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "TrainingCapacity": 84
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "TrainingGrounds_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "TrainingCapacity": 91
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "TrainingGrounds_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "TrainingCapacity": 98
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "TrainingGrounds_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "TrainingCapacity": 105
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "TrainingGrounds_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "Power": 160000,
+          "TrainingCapacity": 112
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "TrainingGrounds_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "Power": 180000,
+          "TrainingCapacity": 119
+        },
+        "neededFood": 7500000,
+        "neededTime": 113400,
+        "neededStone": 2000000,
+        "requiredBuildings": "TrainingGrounds_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "TrainingCapacity": 126
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "TrainingGrounds_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "Power": 230000,
+          "TrainingCapacity": 133
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "TrainingGrounds_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "Power": 280000,
+          "TrainingCapacity": 140
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "TrainingGrounds_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "TrainingCapacity": 150
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "TrainingGrounds_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "Power": 450000,
+          "TrainingCapacity": 160
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "TrainingGrounds_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 600000,
+          "TrainingCapacity": 180
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "TrainingGrounds_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "Power": 800000,
+          "TrainingCapacity": 200
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "TrainingGrounds_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "maxBuilds": 1,
+    "description": "Shoot down enemies with Archers and Heavy Gunners"
+  },
+  {
+    "ObjectName": "AlchemistLab",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 250,
+          "VaultCapacity": 500
+        },
+        "neededFood": 1500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 1500
+      },
+      {
+        "benefits": {
+          "Power": 700,
+          "VaultCapacity": 550
+        },
+        "neededFood": 3500,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 1500,
+          "VaultCapacity": 600
+        },
+        "neededFood": 5000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_2",
+        "neededOre": 0,
+        "neededLumber": 5000
+      },
+      {
+        "benefits": {
+          "Power": 2600,
+          "VaultCapacity": 650
+        },
+        "neededFood": 7000,
+        "neededTime": 330,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "Power": 4000,
+          "VaultCapacity": 700
+        },
+        "neededFood": 9000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 9000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "VaultCapacity": 750
+        },
+        "neededFood": 12500,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 11000,
+          "VaultCapacity": 800
+        },
+        "neededFood": 18000,
+        "neededTime": 510,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "VaultCapacity": 850
+        },
+        "neededFood": 27500,
+        "neededTime": 960,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 27500
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "VaultCapacity": 900
+        },
+        "neededFood": 53000,
+        "neededTime": 1620,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 53000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "VaultCapacity": 950
+        },
+        "neededFood": 95000,
+        "neededTime": 3060,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 95000
+      },
+      {
+        "benefits": {
+          "Power": 34000,
+          "VaultCapacity": 1050
+        },
+        "neededFood": 200000,
+        "neededTime": 4800,
+        "neededStone": 3500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "Power": 42000,
+          "VaultCapacity": 1150
+        },
+        "neededFood": 290000,
+        "neededTime": 7200,
+        "neededStone": 10000,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 50000,
+          "VaultCapacity": 1250
+        },
+        "neededFood": 400000,
+        "neededTime": 11700,
+        "neededStone": 20000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 60000,
+          "VaultCapacity": 1350
+        },
+        "neededFood": 550000,
+        "neededTime": 14100,
+        "neededStone": 45000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 550000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "VaultCapacity": 1450
+        },
+        "neededFood": 900000,
+        "neededTime": 16800,
+        "neededStone": 90000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 900000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "VaultCapacity": 1650
+        },
+        "neededFood": 1250000,
+        "neededTime": 20400,
+        "neededStone": 170000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 7000,
+        "neededLumber": 1250000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "VaultCapacity": 1850
+        },
+        "neededFood": 1800000,
+        "neededTime": 26400,
+        "neededStone": 320000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 24000,
+        "neededLumber": 1800000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "VaultCapacity": 2050
+        },
+        "neededFood": 2600000,
+        "neededTime": 33000,
+        "neededStone": 500000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 52000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 155000,
+          "VaultCapacity": 2250
+        },
+        "neededFood": 3400000,
+        "neededTime": 42600,
+        "neededStone": 700000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 100000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "VaultCapacity": 2450
+        },
+        "neededFood": 4500000,
+        "neededTime": 55800,
+        "neededStone": 960000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 180000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "Power": 190000,
+          "VaultCapacity": 2850
+        },
+        "neededFood": 5800000,
+        "neededTime": 78000,
+        "neededStone": 1350000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 280000,
+        "neededLumber": 5800000
+      },
+      {
+        "benefits": {
+          "Power": 220000,
+          "VaultCapacity": 3250
+        },
+        "neededFood": 7500000,
+        "neededTime": 108000,
+        "neededStone": 1900000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 470000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 260000,
+          "VaultCapacity": 3650
+        },
+        "neededFood": 9500000,
+        "neededTime": 151200,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 760000,
+        "neededLumber": 9500000
+      },
+      {
+        "benefits": {
+          "Power": 300000,
+          "VaultCapacity": 4050
+        },
+        "neededFood": 13000000,
+        "neededTime": 208800,
+        "neededStone": 3600000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 1100000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "VaultCapacity": 4450
+        },
+        "neededFood": 17500000,
+        "neededTime": 288000,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1500000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 430000,
+          "VaultCapacity": 4850
+        },
+        "neededFood": 23500000,
+        "neededTime": 338400,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1900000,
+        "neededLumber": 23500000
+      },
+      {
+        "benefits": {
+          "Power": 550000,
+          "VaultCapacity": 5250
+        },
+        "neededFood": 31000000,
+        "neededTime": 396000,
+        "neededStone": 8800000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 2500000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 700000,
+          "VaultCapacity": 5650
+        },
+        "neededFood": 45000000,
+        "neededTime": 464400,
+        "neededStone": 11500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 3200000,
+        "neededLumber": 45000000
+      },
+      {
+        "benefits": {
+          "Power": 850000,
+          "VaultCapacity": 6050
+        },
+        "neededFood": 52000000,
+        "neededTime": 540000,
+        "neededStone": 15000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 4000000,
+        "neededLumber": 52000000
+      },
+      {
+        "benefits": {
+          "Power": 1000000,
+          "VaultCapacity": 6450
+        },
+        "neededFood": 65000000,
+        "neededTime": 630000,
+        "neededStone": 18000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      }
+    ],
+    "description": "Research and improve economic and battle tactics",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Food",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 50,
+          "MaxCapacity": 6000,
+          "RssPerHour": 30
+        },
+        "neededFood": 150,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 150
+      },
+      {
+        "benefits": {
+          "Power": 100,
+          "MaxCapacity": 7800,
+          "RssPerHour": 40
+        },
+        "neededFood": 250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_1",
+        "neededOre": 0,
+        "neededLumber": 250
+      },
+      {
+        "benefits": {
+          "Power": 200,
+          "MaxCapacity": 12000,
+          "RssPerHour": 50
+        },
+        "neededFood": 350,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_2",
+        "neededOre": 0,
+        "neededLumber": 350
+      },
+      {
+        "benefits": {
+          "Power": 300,
+          "MaxCapacity": 18000,
+          "RssPerHour": 60
+        },
+        "neededFood": 450,
+        "neededTime": 90,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_3",
+        "neededOre": 0,
+        "neededLumber": 450
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "MaxCapacity": 30000,
+          "RssPerHour": 80
+        },
+        "neededFood": 600,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_4",
+        "neededOre": 0,
+        "neededLumber": 600
+      },
+      {
+        "benefits": {
+          "Power": 800,
+          "MaxCapacity": 60000,
+          "RssPerHour": 100
+        },
+        "neededFood": 800,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_5",
+        "neededOre": 0,
+        "neededLumber": 800
+      },
+      {
+        "benefits": {
+          "Power": 1250,
+          "MaxCapacity": 90000,
+          "RssPerHour": 130
+        },
+        "neededFood": 1200,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_6",
+        "neededOre": 0,
+        "neededLumber": 1200
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "MaxCapacity": 135000,
+          "RssPerHour": 160
+        },
+        "neededFood": 1750,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_7",
+        "neededOre": 0,
+        "neededLumber": 1750
+      },
+      {
+        "benefits": {
+          "Power": 2500,
+          "MaxCapacity": 180000,
+          "RssPerHour": 220
+        },
+        "neededFood": 3500,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_8",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 3200,
+          "MaxCapacity": 240000,
+          "RssPerHour": 280
+        },
+        "neededFood": 6000,
+        "neededTime": 780,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_9",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "Power": 4500,
+          "MaxCapacity": 360000,
+          "RssPerHour": 360
+        },
+        "neededFood": 12500,
+        "neededTime": 1200,
+        "neededStone": 200,
+        "requiredBuildings": "Storehouse_10",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 5500,
+          "MaxCapacity": 480000,
+          "RssPerHour": 470
+        },
+        "neededFood": 18000,
+        "neededTime": 1800,
+        "neededStone": 800,
+        "requiredBuildings": "Storehouse_11",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "MaxCapacity": 600000,
+          "RssPerHour": 620
+        },
+        "neededFood": 24000,
+        "neededTime": 2880,
+        "neededStone": 1500,
+        "requiredBuildings": "Storehouse_12",
+        "neededOre": 0,
+        "neededLumber": 24000
+      },
+      {
+        "benefits": {
+          "Power": 9000,
+          "MaxCapacity": 720000,
+          "RssPerHour": 800
+        },
+        "neededFood": 34000,
+        "neededTime": 3600,
+        "neededStone": 3000,
+        "requiredBuildings": "Storehouse_13",
+        "neededOre": 0,
+        "neededLumber": 34000
+      },
+      {
+        "benefits": {
+          "Power": 12000,
+          "MaxCapacity": 840000,
+          "RssPerHour": 1000
+        },
+        "neededFood": 55000,
+        "neededTime": 4200,
+        "neededStone": 5000,
+        "requiredBuildings": "Storehouse_14",
+        "neededOre": 0,
+        "neededLumber": 55000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "MaxCapacity": 960000,
+          "RssPerHour": 1300
+        },
+        "neededFood": 78000,
+        "neededTime": 5100,
+        "neededStone": 10000,
+        "requiredBuildings": "Storehouse_15",
+        "neededOre": 400,
+        "neededLumber": 78000
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "MaxCapacity": 1200000,
+          "RssPerHour": 1700
+        },
+        "neededFood": 115000,
+        "neededTime": 6600,
+        "neededStone": 20000,
+        "requiredBuildings": "Storehouse_16",
+        "neededOre": 1500,
+        "neededLumber": 115000
+      },
+      {
+        "benefits": {
+          "Power": 24000,
+          "MaxCapacity": 1500000,
+          "RssPerHour": 2200
+        },
+        "neededFood": 160000,
+        "neededTime": 8400,
+        "neededStone": 30000,
+        "requiredBuildings": "Storehouse_17",
+        "neededOre": 3000,
+        "neededLumber": 160000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "MaxCapacity": 1800000,
+          "RssPerHour": 2900
+        },
+        "neededFood": 215000,
+        "neededTime": 10800,
+        "neededStone": 42000,
+        "requiredBuildings": "Storehouse_18",
+        "neededOre": 7000,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 36000,
+          "MaxCapacity": 2100000,
+          "RssPerHour": 3700
+        },
+        "neededFood": 280000,
+        "neededTime": 14100,
+        "neededStone": 60000,
+        "requiredBuildings": "Storehouse_19",
+        "neededOre": 12000,
+        "neededLumber": 280000
+      },
+      {
+        "benefits": {
+          "Power": 45000,
+          "MaxCapacity": 2520000,
+          "RssPerHour": 4800
+        },
+        "neededFood": 360000,
+        "neededTime": 19800,
+        "neededStone": 80000,
+        "requiredBuildings": "Storehouse_20",
+        "neededOre": 18000,
+        "neededLumber": 360000
+      },
+      {
+        "benefits": {
+          "Power": 55000,
+          "MaxCapacity": 3000000,
+          "RssPerHour": 6300
+        },
+        "neededFood": 458000,
+        "neededTime": 27000,
+        "neededStone": 115000,
+        "requiredBuildings": "Storehouse_21",
+        "neededOre": 30000,
+        "neededLumber": 458000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "MaxCapacity": 3420000,
+          "RssPerHour": 8000
+        },
+        "neededFood": 600000,
+        "neededTime": 37800,
+        "neededStone": 160000,
+        "requiredBuildings": "Storehouse_22",
+        "neededOre": 47500,
+        "neededLumber": 600000
+      },
+      {
+        "benefits": {
+          "Power": 80000,
+          "MaxCapacity": 3900000,
+          "RssPerHour": 10000
+        },
+        "neededFood": 800000,
+        "neededTime": 52200,
+        "neededStone": 225000,
+        "requiredBuildings": "Storehouse_23",
+        "neededOre": 65000,
+        "neededLumber": 800000
+      },
+      {
+        "benefits": {
+          "Power": 95000,
+          "MaxCapacity": 4500000,
+          "RssPerHour": 13500
+        },
+        "neededFood": 1100000,
+        "neededTime": 71400,
+        "neededStone": 300000,
+        "requiredBuildings": "Storehouse_24",
+        "neededOre": 90000,
+        "neededLumber": 1100000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "MaxCapacity": 5100000,
+          "RssPerHour": 17500
+        },
+        "neededFood": 1500000,
+        "neededTime": 84600,
+        "neededStone": 380000,
+        "requiredBuildings": "Storehouse_25",
+        "neededOre": 120000,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "Power": 140000,
+          "MaxCapacity": 6000000,
+          "RssPerHour": 23000
+        },
+        "neededFood": 2000000,
+        "neededTime": 99000,
+        "neededStone": 500000,
+        "requiredBuildings": "Storehouse_26",
+        "neededOre": 150000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "MaxCapacity": 7200000,
+          "RssPerHour": 30000
+        },
+        "neededFood": 2600000,
+        "neededTime": 117000,
+        "neededStone": 650000,
+        "requiredBuildings": "Storehouse_27",
+        "neededOre": 180000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "MaxCapacity": 8400000,
+          "RssPerHour": 40000
+        },
+        "neededFood": 3200000,
+        "neededTime": 135000,
+        "neededStone": 800000,
+        "requiredBuildings": "Storehouse_28",
+        "neededOre": 210000,
+        "neededLumber": 3200000
+      },
+      {
+        "benefits": {
+          "Power": 250000,
+          "MaxCapacity": 9600000,
+          "RssPerHour": 50000
+        },
+        "neededFood": 4000000,
+        "neededTime": 158400,
+        "neededStone": 1000000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 250000,
+        "neededLumber": 4000000
+      }
+    ],
+    "maxBuilds": 4,
+    "description": "Grow and utilize fresh food from the farm"
+  },
+  {
+    "ObjectName": "UndergroundTunnel",
+    "Construction": [
+      {
+        "benefits": {
+          "StorageProtection": 500,
+          "Power": 250
+        },
+        "neededFood": 1500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 10000,
+          "Power": 700
+        },
+        "neededFood": 3500,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_1",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 15000,
+          "Power": 1500
+        },
+        "neededFood": 5000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_2",
+        "neededOre": 0,
+        "neededLumber": 5000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 20000,
+          "Power": 2600
+        },
+        "neededFood": 7000,
+        "neededTime": 330,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 25000,
+          "Power": 4000
+        },
+        "neededFood": 9000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 9000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 32000,
+          "Power": 7000
+        },
+        "neededFood": 12500,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 45000,
+          "Power": 11000
+        },
+        "neededFood": 18000,
+        "neededTime": 510,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 65000,
+          "Power": 15000
+        },
+        "neededFood": 27500,
+        "neededTime": 960,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 27500
+      },
+      {
+        "benefits": {
+          "StorageProtection": 125000,
+          "Power": 19000
+        },
+        "neededFood": 53000,
+        "neededTime": 1620,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 53000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 220000,
+          "Power": 25000
+        },
+        "neededFood": 95000,
+        "neededTime": 3060,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 95000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 425000,
+          "Power": 34000
+        },
+        "neededFood": 200000,
+        "neededTime": 4800,
+        "neededStone": 3500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 725000,
+          "Power": 42000
+        },
+        "neededFood": 290000,
+        "neededTime": 7200,
+        "neededStone": 10000,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1300000,
+          "Power": 50000
+        },
+        "neededFood": 400000,
+        "neededTime": 11700,
+        "neededStone": 20000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 2000000,
+          "Power": 60000
+        },
+        "neededFood": 550000,
+        "neededTime": 14100,
+        "neededStone": 45000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 550000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 3300000,
+          "Power": 75000
+        },
+        "neededFood": 900000,
+        "neededTime": 16800,
+        "neededStone": 90000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 900000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 4700000,
+          "Power": 90000
+        },
+        "neededFood": 1250000,
+        "neededTime": 20400,
+        "neededStone": 170000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 7000,
+        "neededLumber": 1250000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 6200000,
+          "Power": 110000
+        },
+        "neededFood": 1800000,
+        "neededTime": 26400,
+        "neededStone": 320000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 24000,
+        "neededLumber": 1800000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 7500000,
+          "Power": 130000
+        },
+        "neededFood": 2600000,
+        "neededTime": 33000,
+        "neededStone": 500000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 52000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 9000000,
+          "Power": 155000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42600,
+        "neededStone": 700000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 100000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1050000,
+          "Power": 170000
+        },
+        "neededFood": 4500000,
+        "neededTime": 55800,
+        "neededStone": 960000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 180000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1250000,
+          "Power": 190000
+        },
+        "neededFood": 5800000,
+        "neededTime": 78000,
+        "neededStone": 1350000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 280000,
+        "neededLumber": 5800000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1500000,
+          "Power": 220000
+        },
+        "neededFood": 7500000,
+        "neededTime": 108000,
+        "neededStone": 1900000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 470000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 1900000,
+          "Power": 260000
+        },
+        "neededFood": 9500000,
+        "neededTime": 151200,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 760000,
+        "neededLumber": 9500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 2500000,
+          "Power": 300000
+        },
+        "neededFood": 13000000,
+        "neededTime": 208800,
+        "neededStone": 3600000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 1100000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 3400000,
+          "Power": 350000
+        },
+        "neededFood": 17500000,
+        "neededTime": 288000,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1500000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 4500000,
+          "Power": 430000
+        },
+        "neededFood": 23500000,
+        "neededTime": 338400,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1900000,
+        "neededLumber": 23500000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 5800000,
+          "Power": 550000
+        },
+        "neededFood": 31000000,
+        "neededTime": 396000,
+        "neededStone": 8800000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 2500000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 7500000,
+          "Power": 700000
+        },
+        "neededFood": 45000000,
+        "neededTime": 464400,
+        "neededStone": 11500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 3200000,
+        "neededLumber": 45000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 9500000,
+          "Power": 850000
+        },
+        "neededFood": 52000000,
+        "neededTime": 540000,
+        "neededStone": 15000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 4000000,
+        "neededLumber": 52000000
+      },
+      {
+        "benefits": {
+          "StorageProtection": 12000000,
+          "Power": 1000000
+        },
+        "neededFood": 65000000,
+        "neededTime": 630000,
+        "neededStone": 18000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      }
+    ],
+    "description": "Hide your troops, reduce casualties",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Stone",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 50,
+          "MaxCapacity": 300,
+          "RssPerHour": 15
+        },
+        "neededFood": 150,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 150
+      },
+      {
+        "benefits": {
+          "Power": 100,
+          "MaxCapacity": 390,
+          "RssPerHour": 20
+        },
+        "neededFood": 250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_10",
+        "neededOre": 0,
+        "neededLumber": 250
+      },
+      {
+        "benefits": {
+          "Power": 200,
+          "MaxCapacity": 600,
+          "RssPerHour": 25
+        },
+        "neededFood": 350,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_11",
+        "neededOre": 0,
+        "neededLumber": 350
+      },
+      {
+        "benefits": {
+          "Power": 300,
+          "MaxCapacity": 900,
+          "RssPerHour": 30
+        },
+        "neededFood": 450,
+        "neededTime": 90,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_12",
+        "neededOre": 0,
+        "neededLumber": 450
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "MaxCapacity": 1500,
+          "RssPerHour": 40
+        },
+        "neededFood": 600,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_13",
+        "neededOre": 0,
+        "neededLumber": 600
+      },
+      {
+        "benefits": {
+          "Power": 800,
+          "MaxCapacity": 3000,
+          "RssPerHour": 50
+        },
+        "neededFood": 800,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_14",
+        "neededOre": 0,
+        "neededLumber": 800
+      },
+      {
+        "benefits": {
+          "Power": 1250,
+          "MaxCapacity": 4500,
+          "RssPerHour": 65
+        },
+        "neededFood": 1200,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_15",
+        "neededOre": 0,
+        "neededLumber": 1200
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "MaxCapacity": 6750,
+          "RssPerHour": 80
+        },
+        "neededFood": 1750,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_16",
+        "neededOre": 0,
+        "neededLumber": 1750
+      },
+      {
+        "benefits": {
+          "Power": 2500,
+          "MaxCapacity": 9000,
+          "RssPerHour": 110
+        },
+        "neededFood": 3500,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_17",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 3200,
+          "MaxCapacity": 12000,
+          "RssPerHour": 140
+        },
+        "neededFood": 6000,
+        "neededTime": 780,
+        "neededStone": 0,
+        "requiredBuildings": "Storehouse_18",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "Power": 4500,
+          "MaxCapacity": 18000,
+          "RssPerHour": 180
+        },
+        "neededFood": 12500,
+        "neededTime": 1200,
+        "neededStone": 200,
+        "requiredBuildings": "Storehouse_19",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "Power": 5500,
+          "MaxCapacity": 24000,
+          "RssPerHour": 235
+        },
+        "neededFood": 18000,
+        "neededTime": 1800,
+        "neededStone": 800,
+        "requiredBuildings": "Storehouse_20",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "MaxCapacity": 30000,
+          "RssPerHour": 310
+        },
+        "neededFood": 24000,
+        "neededTime": 2880,
+        "neededStone": 1500,
+        "requiredBuildings": "Storehouse_21",
+        "neededOre": 0,
+        "neededLumber": 24000
+      },
+      {
+        "benefits": {
+          "Power": 9000,
+          "MaxCapacity": 36000,
+          "RssPerHour": 400
+        },
+        "neededFood": 34000,
+        "neededTime": 3600,
+        "neededStone": 3000,
+        "requiredBuildings": "Storehouse_22",
+        "neededOre": 0,
+        "neededLumber": 34000
+      },
+      {
+        "benefits": {
+          "Power": 12000,
+          "MaxCapacity": 42000,
+          "RssPerHour": 500
+        },
+        "neededFood": 55000,
+        "neededTime": 4200,
+        "neededStone": 5000,
+        "requiredBuildings": "Storehouse_23",
+        "neededOre": 0,
+        "neededLumber": 55000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "MaxCapacity": 48000,
+          "RssPerHour": 650
+        },
+        "neededFood": 78000,
+        "neededTime": 5100,
+        "neededStone": 10000,
+        "requiredBuildings": "Storehouse_24",
+        "neededOre": 400,
+        "neededLumber": 78000
+      },
+      {
+        "benefits": {
+          "Power": 19000,
+          "MaxCapacity": 60000,
+          "RssPerHour": 850
+        },
+        "neededFood": 115000,
+        "neededTime": 6600,
+        "neededStone": 20000,
+        "requiredBuildings": "Storehouse_25",
+        "neededOre": 1500,
+        "neededLumber": 115000
+      },
+      {
+        "benefits": {
+          "Power": 24000,
+          "MaxCapacity": 75000,
+          "RssPerHour": 1100
+        },
+        "neededFood": 160000,
+        "neededTime": 8400,
+        "neededStone": 30000,
+        "requiredBuildings": "Storehouse_26",
+        "neededOre": 3000,
+        "neededLumber": 160000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "MaxCapacity": 90000,
+          "RssPerHour": 1450
+        },
+        "neededFood": 215000,
+        "neededTime": 10800,
+        "neededStone": 42000,
+        "requiredBuildings": "Storehouse_27",
+        "neededOre": 7000,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 36000,
+          "MaxCapacity": 105000,
+          "RssPerHour": 1850
+        },
+        "neededFood": 280000,
+        "neededTime": 14100,
+        "neededStone": 60000,
+        "requiredBuildings": "Storehouse_28",
+        "neededOre": 12000,
+        "neededLumber": 280000
+      },
+      {
+        "benefits": {
+          "Power": 45000,
+          "MaxCapacity": 126000,
+          "RssPerHour": 2400
+        },
+        "neededFood": 360000,
+        "neededTime": 19800,
+        "neededStone": 80000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 18000,
+        "neededLumber": 360000
+      },
+      {
+        "benefits": {
+          "Power": 55000,
+          "MaxCapacity": 150000,
+          "RssPerHour": 3150
+        },
+        "neededFood": 458000,
+        "neededTime": 27000,
+        "neededStone": 115000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 30000,
+        "neededLumber": 458000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "MaxCapacity": 171000,
+          "RssPerHour": 4000
+        },
+        "neededFood": 600000,
+        "neededTime": 37800,
+        "neededStone": 160000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 47500,
+        "neededLumber": 600000
+      },
+      {
+        "benefits": {
+          "Power": 80000,
+          "MaxCapacity": 195000,
+          "RssPerHour": 5000
+        },
+        "neededFood": 800000,
+        "neededTime": 52200,
+        "neededStone": 225000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 65000,
+        "neededLumber": 800000
+      },
+      {
+        "benefits": {
+          "Power": 95000,
+          "MaxCapacity": 225000,
+          "RssPerHour": 6750
+        },
+        "neededFood": 1100000,
+        "neededTime": 71400,
+        "neededStone": 300000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 90000,
+        "neededLumber": 1100000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "MaxCapacity": 255000,
+          "RssPerHour": 8750
+        },
+        "neededFood": 1500000,
+        "neededTime": 84600,
+        "neededStone": 380000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 120000,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "Power": 140000,
+          "MaxCapacity": 300000,
+          "RssPerHour": 11500
+        },
+        "neededFood": 2000000,
+        "neededTime": 99000,
+        "neededStone": 500000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 150000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 170000,
+          "MaxCapacity": 360000,
+          "RssPerHour": 15000
+        },
+        "neededFood": 2600000,
+        "neededTime": 117000,
+        "neededStone": 650000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 180000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "MaxCapacity": 420000,
+          "RssPerHour": 20000
+        },
+        "neededFood": 3200000,
+        "neededTime": 135000,
+        "neededStone": 800000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 210000,
+        "neededLumber": 3200000
+      },
+      {
+        "benefits": {
+          "Power": 250000,
+          "MaxCapacity": 480000,
+          "RssPerHour": 25000
+        },
+        "neededFood": 4000000,
+        "neededTime": 158400,
+        "neededStone": 1000000,
+        "requiredBuildings": "Storehouse_29",
+        "neededOre": 250000,
+        "neededLumber": 4000000
+      }
+    ],
+    "description": "Unearth and collect stones for construction work",
+    "maxBuilds": 4
+  },
+  {
+    "ObjectName": "Infantry",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 150,
+          "TrainingCapacity": 5
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "TrainingCapacity": 7
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "Power": 1000,
+          "TrainingCapacity": 9
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_2",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "Power": 2000,
+          "TrainingCapacity": 11
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_3",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "TrainingCapacity": 13
+        },
+        "neededFood": 7500,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "TrainingCapacity": 15
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "Power": 7500,
+          "TrainingCapacity": 17
+        },
+        "neededFood": 14000,
+        "neededTime": 420,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "TrainingCapacity": 19
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "TrainingCapacity": 21
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "Power": 20000,
+          "TrainingCapacity": 28
+        },
+        "neededFood": 70000,
+        "neededTime": 2400,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 25000,
+          "TrainingCapacity": 35
+        },
+        "neededFood": 150000,
+        "neededTime": 3600,
+        "neededStone": 2500,
+        "requiredBuildings": "TrainingGrounds_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "TrainingCapacity": 42
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "TrainingGrounds_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "TrainingCapacity": 49
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "TrainingGrounds_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "Power": 40000,
+          "TrainingCapacity": 56
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "TrainingGrounds_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "TrainingCapacity": 63
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "TrainingGrounds_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "Power": 56000,
+          "TrainingCapacity": 70
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "TrainingGrounds_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 65000,
+          "TrainingCapacity": 77
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "TrainingGrounds_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "Power": 75000,
+          "TrainingCapacity": 84
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "TrainingGrounds_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "Power": 90000,
+          "TrainingCapacity": 91
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "TrainingGrounds_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "Power": 110000,
+          "TrainingCapacity": 98
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "TrainingGrounds_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "Power": 130000,
+          "TrainingCapacity": 105
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "TrainingGrounds_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "Power": 160000,
+          "TrainingCapacity": 112
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "TrainingGrounds_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "Power": 180000,
+          "TrainingCapacity": 119
+        },
+        "neededFood": 7500000,
+        "neededTime": 113400,
+        "neededStone": 2000000,
+        "requiredBuildings": "TrainingGrounds_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "Power": 200000,
+          "TrainingCapacity": 126
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "TrainingGrounds_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "Power": 230000,
+          "TrainingCapacity": 133
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "TrainingGrounds_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "Power": 280000,
+          "TrainingCapacity": 140
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "TrainingGrounds_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "Power": 350000,
+          "TrainingCapacity": 150
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "TrainingGrounds_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "Power": 450000,
+          "TrainingCapacity": 160
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "TrainingGrounds_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "Power": 600000,
+          "TrainingCapacity": 180
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "TrainingGrounds_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "Power": 800000,
+          "TrainingCapacity": 200
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "TrainingGrounds_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "description": "The Infantry frontline of your army",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "Hospital",
+    "Construction": [
+      {
+        "benefits": {
+          "HospitalCapacity": 250,
+          "Power": 250
+        },
+        "neededFood": 1500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_0",
+        "neededOre": 0,
+        "neededLumber": 1500
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 500,
+          "Power": 700
+        },
+        "neededFood": 3500,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 750,
+          "Power": 1500
+        },
+        "neededFood": 5000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 5000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 1000,
+          "Power": 2600
+        },
+        "neededFood": 7000,
+        "neededTime": 330,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_1",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 1250,
+          "Power": 4000
+        },
+        "neededFood": 9000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_4",
+        "neededOre": 0,
+        "neededLumber": 9000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 1500,
+          "Power": 7000
+        },
+        "neededFood": 12500,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_5",
+        "neededOre": 0,
+        "neededLumber": 12500
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 1750,
+          "Power": 11000
+        },
+        "neededFood": 18000,
+        "neededTime": 510,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_6",
+        "neededOre": 0,
+        "neededLumber": 18000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 2000,
+          "Power": 15000
+        },
+        "neededFood": 27500,
+        "neededTime": 960,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_7",
+        "neededOre": 0,
+        "neededLumber": 27500
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 2250,
+          "Power": 19000
+        },
+        "neededFood": 53000,
+        "neededTime": 1620,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_8",
+        "neededOre": 0,
+        "neededLumber": 53000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 2500,
+          "Power": 25000
+        },
+        "neededFood": 95000,
+        "neededTime": 3060,
+        "neededStone": 0,
+        "requiredBuildings": "TrainingGrounds_9",
+        "neededOre": 0,
+        "neededLumber": 95000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 2750,
+          "Power": 34000
+        },
+        "neededFood": 200000,
+        "neededTime": 4800,
+        "neededStone": 3500,
+        "requiredBuildings": "TrainingGrounds_10",
+        "neededOre": 0,
+        "neededLumber": 200000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 3000,
+          "Power": 42000
+        },
+        "neededFood": 290000,
+        "neededTime": 7200,
+        "neededStone": 10000,
+        "requiredBuildings": "TrainingGrounds_11",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 3250,
+          "Power": 50000
+        },
+        "neededFood": 400000,
+        "neededTime": 11700,
+        "neededStone": 20000,
+        "requiredBuildings": "TrainingGrounds_12",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 3500,
+          "Power": 60000
+        },
+        "neededFood": 550000,
+        "neededTime": 14100,
+        "neededStone": 45000,
+        "requiredBuildings": "TrainingGrounds_13",
+        "neededOre": 0,
+        "neededLumber": 550000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 3750,
+          "Power": 75000
+        },
+        "neededFood": 900000,
+        "neededTime": 16800,
+        "neededStone": 90000,
+        "requiredBuildings": "TrainingGrounds_14",
+        "neededOre": 0,
+        "neededLumber": 900000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 4750,
+          "Power": 90000
+        },
+        "neededFood": 1250000,
+        "neededTime": 20400,
+        "neededStone": 170000,
+        "requiredBuildings": "TrainingGrounds_15",
+        "neededOre": 7000,
+        "neededLumber": 1250000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 6000,
+          "Power": 110000
+        },
+        "neededFood": 1800000,
+        "neededTime": 26400,
+        "neededStone": 320000,
+        "requiredBuildings": "TrainingGrounds_16",
+        "neededOre": 24000,
+        "neededLumber": 1800000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 7500,
+          "Power": 130000
+        },
+        "neededFood": 2600000,
+        "neededTime": 33000,
+        "neededStone": 500000,
+        "requiredBuildings": "TrainingGrounds_17",
+        "neededOre": 52000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 9000,
+          "Power": 155000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42600,
+        "neededStone": 700000,
+        "requiredBuildings": "TrainingGrounds_18",
+        "neededOre": 100000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 11000,
+          "Power": 170000
+        },
+        "neededFood": 4500000,
+        "neededTime": 55800,
+        "neededStone": 960000,
+        "requiredBuildings": "TrainingGrounds_19",
+        "neededOre": 180000,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 13000,
+          "Power": 190000
+        },
+        "neededFood": 5800000,
+        "neededTime": 78000,
+        "neededStone": 1350000,
+        "requiredBuildings": "TrainingGrounds_20",
+        "neededOre": 280000,
+        "neededLumber": 5800000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 15000,
+          "Power": 220000
+        },
+        "neededFood": 7500000,
+        "neededTime": 108000,
+        "neededStone": 1900000,
+        "requiredBuildings": "TrainingGrounds_21",
+        "neededOre": 470000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 20000,
+          "Power": 260000
+        },
+        "neededFood": 9500000,
+        "neededTime": 151200,
+        "neededStone": 2700000,
+        "requiredBuildings": "TrainingGrounds_22",
+        "neededOre": 760000,
+        "neededLumber": 9500000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 25000,
+          "Power": 300000
+        },
+        "neededFood": 13000000,
+        "neededTime": 208800,
+        "neededStone": 3600000,
+        "requiredBuildings": "TrainingGrounds_23",
+        "neededOre": 1100000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 30000,
+          "Power": 350000
+        },
+        "neededFood": 17500000,
+        "neededTime": 288000,
+        "neededStone": 5000000,
+        "requiredBuildings": "TrainingGrounds_24",
+        "neededOre": 1500000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 35000,
+          "Power": 430000
+        },
+        "neededFood": 23500000,
+        "neededTime": 338400,
+        "neededStone": 6500000,
+        "requiredBuildings": "TrainingGrounds_25",
+        "neededOre": 1900000,
+        "neededLumber": 23500000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 45000,
+          "Power": 550000
+        },
+        "neededFood": 31000000,
+        "neededTime": 396000,
+        "neededStone": 8800000,
+        "requiredBuildings": "TrainingGrounds_26",
+        "neededOre": 2500000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 55000,
+          "Power": 700000
+        },
+        "neededFood": 45000000,
+        "neededTime": 464400,
+        "neededStone": 11500000,
+        "requiredBuildings": "TrainingGrounds_27",
+        "neededOre": 3200000,
+        "neededLumber": 45000000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 65000,
+          "Power": 850000
+        },
+        "neededFood": 52000000,
+        "neededTime": 540000,
+        "neededStone": 15000000,
+        "requiredBuildings": "TrainingGrounds_28",
+        "neededOre": 4000000,
+        "neededLumber": 52000000
+      },
+      {
+        "benefits": {
+          "HospitalCapacity": 75000,
+          "Power": 1000000
+        },
+        "neededFood": 65000000,
+        "neededTime": 630000,
+        "neededStone": 18000000,
+        "requiredBuildings": "TrainingGrounds_29",
+        "neededOre": 5000000,
+        "neededLumber": 65000000
+      }
+    ],
+    "description": "Without healing power, there is no army",
+    "maxBuilds": 4
+  },
+  {
+    "ObjectName": "Treehouse",
+    "Construction": [
+      {
+        "benefits": {
+          "ReconLevel": 0,
+          "Power": 150
+        },
+        "neededFood": 1250,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 1250
+      },
+      {
+        "benefits": {
+          "ReconLevel": 1,
+          "Power": 500
+        },
+        "neededFood": 2500,
+        "neededTime": 150,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 2500
+      },
+      {
+        "benefits": {
+          "ReconLevel": 2,
+          "Power": 1000
+        },
+        "neededFood": 4000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 4000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 3,
+          "Power": 2000
+        },
+        "neededFood": 5500,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 5500
+      },
+      {
+        "benefits": {
+          "ReconLevel": 4,
+          "Power": 3000
+        },
+        "neededFood": 7500,
+        "neededTime": 300,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 7500
+      },
+      {
+        "benefits": {
+          "ReconLevel": 5,
+          "Power": 5000
+        },
+        "neededFood": 10000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 6,
+          "Power": 7500
+        },
+        "neededFood": 14000,
+        "neededTime": 390,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 14000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 7,
+          "Power": 10000
+        },
+        "neededFood": 20000,
+        "neededTime": 720,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 20000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 8,
+          "Power": 15000
+        },
+        "neededFood": 40000,
+        "neededTime": 1260,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 40000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 9,
+          "Power": 20000
+        },
+        "neededFood": 70000,
+        "neededTime": 2280,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 10,
+          "Power": 25000
+        },
+        "neededFood": 150000,
+        "neededTime": 3420,
+        "neededStone": 2500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 150000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 11,
+          "Power": 30000
+        },
+        "neededFood": 215000,
+        "neededTime": 5400,
+        "neededStone": 4500,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 215000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 12,
+          "Power": 35000
+        },
+        "neededFood": 290000,
+        "neededTime": 8700,
+        "neededStone": 16000,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 290000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 13,
+          "Power": 40000
+        },
+        "neededFood": 400000,
+        "neededTime": 10500,
+        "neededStone": 32000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 400000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 14,
+          "Power": 48000
+        },
+        "neededFood": 660000,
+        "neededTime": 12600,
+        "neededStone": 70000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 660000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 15,
+          "Power": 56000
+        },
+        "neededFood": 950000,
+        "neededTime": 15600,
+        "neededStone": 125000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 5000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 16,
+          "Power": 65000
+        },
+        "neededFood": 1400000,
+        "neededTime": 19800,
+        "neededStone": 240000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 17000,
+        "neededLumber": 1400000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 17,
+          "Power": 75000
+        },
+        "neededFood": 2000000,
+        "neededTime": 25200,
+        "neededStone": 360000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 38000,
+        "neededLumber": 2000000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 18,
+          "Power": 90000
+        },
+        "neededFood": 2600000,
+        "neededTime": 31800,
+        "neededStone": 550000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 73000,
+        "neededLumber": 2600000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 19,
+          "Power": 110000
+        },
+        "neededFood": 3400000,
+        "neededTime": 42000,
+        "neededStone": 720000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 130000,
+        "neededLumber": 3400000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 20,
+          "Power": 130000
+        },
+        "neededFood": 4350000,
+        "neededTime": 58200,
+        "neededStone": 1000000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 216000,
+        "neededLumber": 4350000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 21,
+          "Power": 160000
+        },
+        "neededFood": 5500000,
+        "neededTime": 81000,
+        "neededStone": 1400000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 350000,
+        "neededLumber": 5500000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 22,
+          "Power": 180000
+        },
+        "neededFood": 7500000,
+        "neededTime": 133440,
+        "neededStone": 2000000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 570000,
+        "neededLumber": 7500000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 23,
+          "Power": 200000
+        },
+        "neededFood": 10000000,
+        "neededTime": 156600,
+        "neededStone": 2700000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 780000,
+        "neededLumber": 10000000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 24,
+          "Power": 230000
+        },
+        "neededFood": 13500000,
+        "neededTime": 214200,
+        "neededStone": 3700000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 1050000,
+        "neededLumber": 13500000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 25,
+          "Power": 280000
+        },
+        "neededFood": 17500000,
+        "neededTime": 253800,
+        "neededStone": 5000000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 1400000,
+        "neededLumber": 17500000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 26,
+          "Power": 350000
+        },
+        "neededFood": 23000000,
+        "neededTime": 298800,
+        "neededStone": 6500000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 1850000,
+        "neededLumber": 23000000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 27,
+          "Power": 450000
+        },
+        "neededFood": 31000000,
+        "neededTime": 349200,
+        "neededStone": 8500000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 2400000,
+        "neededLumber": 31000000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 28,
+          "Power": 600000
+        },
+        "neededFood": 40000000,
+        "neededTime": 406800,
+        "neededStone": 11000000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 3200000,
+        "neededLumber": 40000000
+      },
+      {
+        "benefits": {
+          "ReconLevel": 29,
+          "Power": 800000
+        },
+        "neededFood": 50000000,
+        "neededTime": 475200,
+        "neededStone": 14000000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 4000000,
+        "neededLumber": 50000000
+      }
+    ],
+    "maxBuilds": 1,
+    "description": "Watchtower for invaders, recons or scouts"
+  },
+  {
+    "ObjectName": "Shelter",
+    "Construction": [
+      {
+        "benefits": {
+          "MarchUnits": 300,
+          "Power": 4000
+        },
+        "neededFood": 10000,
+        "neededTime": 180,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_0",
+        "neededOre": 0,
+        "neededLumber": 10000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 700,
+          "Power": 6000
+        },
+        "neededFood": 15000,
+        "neededTime": 240,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_0",
+        "neededOre": 0,
+        "neededLumber": 15000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 1000,
+          "Power": 10000
+        },
+        "neededFood": 24000,
+        "neededTime": 360,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_1",
+        "neededOre": 0,
+        "neededLumber": 24000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 1400,
+          "Power": 16000
+        },
+        "neededFood": 32000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_2",
+        "neededOre": 0,
+        "neededLumber": 32000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 1850,
+          "Power": 25000
+        },
+        "neededFood": 42000,
+        "neededTime": 660,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_3",
+        "neededOre": 0,
+        "neededLumber": 42000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 3000,
+          "Power": 40000
+        },
+        "neededFood": 60000,
+        "neededTime": 1200,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_4",
+        "neededOre": 0,
+        "neededLumber": 60000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 4000,
+          "Power": 55000
+        },
+        "neededFood": 90000,
+        "neededTime": 3600,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_5",
+        "neededOre": 0,
+        "neededLumber": 90000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 5300,
+          "Power": 80000
+        },
+        "neededFood": 130000,
+        "neededTime": 5400,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_6",
+        "neededOre": 0,
+        "neededLumber": 130000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 6500,
+          "Power": 100000
+        },
+        "neededFood": 250000,
+        "neededTime": 9000,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_7",
+        "neededOre": 0,
+        "neededLumber": 250000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 7800,
+          "Power": 140000
+        },
+        "neededFood": 460000,
+        "neededTime": 15600,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 460000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 10500,
+          "Power": 170000
+        },
+        "neededFood": 1000000,
+        "neededTime": 21000,
+        "neededStone": 15000,
+        "requiredBuildings": "GuardShack_9",
+        "neededOre": 0,
+        "neededLumber": 1000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 13400,
+          "Power": 200000
+        },
+        "neededFood": 1500000,
+        "neededTime": 30000,
+        "neededStone": 45000,
+        "requiredBuildings": "GuardShack_10",
+        "neededOre": 0,
+        "neededLumber": 1500000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 16000,
+          "Power": 230000
+        },
+        "neededFood": 2200000,
+        "neededTime": 42000,
+        "neededStone": 100000,
+        "requiredBuildings": "GuardShack_11",
+        "neededOre": 0,
+        "neededLumber": 2200000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 20000,
+          "Power": 260000
+        },
+        "neededFood": 2800000,
+        "neededTime": 49800,
+        "neededStone": 200000,
+        "requiredBuildings": "GuardShack_12",
+        "neededOre": 0,
+        "neededLumber": 2800000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 22500,
+          "Power": 320000
+        },
+        "neededFood": 4500000,
+        "neededTime": 61200,
+        "neededStone": 450000,
+        "requiredBuildings": "GuardShack_13",
+        "neededOre": 0,
+        "neededLumber": 4500000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 28000,
+          "Power": 370000
+        },
+        "neededFood": 6200000,
+        "neededTime": 90000,
+        "neededStone": 800000,
+        "requiredBuildings": "GuardShack_14",
+        "neededOre": 35000,
+        "neededLumber": 6200000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 32000,
+          "Power": 430000
+        },
+        "neededFood": 9000000,
+        "neededTime": 113400,
+        "neededStone": 1500000,
+        "requiredBuildings": "GuardShack_15",
+        "neededOre": 100000,
+        "neededLumber": 9000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 34000,
+          "Power": 500000
+        },
+        "neededFood": 13000000,
+        "neededTime": 156600,
+        "neededStone": 2200000,
+        "requiredBuildings": "GuardShack_16",
+        "neededOre": 250000,
+        "neededLumber": 13000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 36000,
+          "Power": 580000
+        },
+        "neededFood": 18000000,
+        "neededTime": 217800,
+        "neededStone": 3200000,
+        "requiredBuildings": "GuardShack_17",
+        "neededOre": 450000,
+        "neededLumber": 18000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 38000,
+          "Power": 680000
+        },
+        "neededFood": 25000000,
+        "neededTime": 302400,
+        "neededStone": 4500000,
+        "requiredBuildings": "GuardShack_18",
+        "neededOre": 800000,
+        "neededLumber": 25000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 41000,
+          "Power": 800000
+        },
+        "neededFood": 30000000,
+        "neededTime": 421800,
+        "neededStone": 6100000,
+        "requiredBuildings": "GuardShack_19",
+        "neededOre": 1500000,
+        "neededLumber": 30000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 44000,
+          "Power": 950000
+        },
+        "neededFood": 39000000,
+        "neededTime": 583200,
+        "neededStone": 8500000,
+        "requiredBuildings": "GuardShack_20",
+        "neededOre": 2300000,
+        "neededLumber": 39000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 47000,
+          "Power": 1200000
+        },
+        "neededFood": 50000000,
+        "neededTime": 813600,
+        "neededStone": 13000000,
+        "requiredBuildings": "GuardShack_21",
+        "neededOre": 3500000,
+        "neededLumber": 50000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 50000,
+          "Power": 1500000
+        },
+        "neededFood": 60000000,
+        "neededTime": 1166400,
+        "neededStone": 18000000,
+        "requiredBuildings": "GuardShack_22",
+        "neededOre": 4800000,
+        "neededLumber": 60000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 54000,
+          "Power": 1800000
+        },
+        "neededFood": 88000000,
+        "neededTime": 1598400,
+        "neededStone": 23000000,
+        "requiredBuildings": "GuardShack_23",
+        "neededOre": 6500000,
+        "neededLumber": 88000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 58000,
+          "Power": 2400000
+        },
+        "neededFood": 120000000,
+        "neededTime": 1857600,
+        "neededStone": 30000000,
+        "requiredBuildings": "GuardShack_24",
+        "neededOre": 9000000,
+        "neededLumber": 120000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 62000,
+          "Power": 3000000
+        },
+        "neededFood": 150000000,
+        "neededTime": 2160000,
+        "neededStone": 40000000,
+        "requiredBuildings": "GuardShack_25",
+        "neededOre": 12000000,
+        "neededLumber": 150000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 66000,
+          "Power": 3600000
+        },
+        "neededFood": 225000000,
+        "neededTime": 2505600,
+        "neededStone": 50000000,
+        "requiredBuildings": "GuardShack_26",
+        "neededOre": 15000000,
+        "neededLumber": 225000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 70000,
+          "Power": 4200000
+        },
+        "neededFood": 300000000,
+        "neededTime": 2937600,
+        "neededStone": 65000000,
+        "requiredBuildings": "GuardShack_27",
+        "neededOre": 20000000,
+        "neededLumber": 300000000
+      },
+      {
+        "benefits": {
+          "MarchUnits": 75000,
+          "Power": 5000000
+        },
+        "neededFood": 400000000,
+        "neededTime": 3412800,
+        "neededStone": 80000000,
+        "requiredBuildings": "GuardShack_28",
+        "neededOre": 25000000,
+        "neededLumber": 400000000
+      }
+    ],
+    "description": "Base of operations for your development.",
+    "maxBuilds": 1
+  },
+  {
+    "ObjectName": "TrainingGrounds",
+    "Construction": [
+      {
+        "benefits": {
+          "Power": 20,
+          "TrainingSpeed": 0.2
+        },
+        "neededFood": 200,
+        "neededTime": 15,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 200
+      },
+      {
+        "benefits": {
+          "Power": 80,
+          "TrainingSpeed": 0.4
+        },
+        "neededFood": 450,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 450
+      },
+      {
+        "benefits": {
+          "Power": 180,
+          "TrainingSpeed": 0.6
+        },
+        "neededFood": 700,
+        "neededTime": 30,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 700
+      },
+      {
+        "benefits": {
+          "Power": 320,
+          "TrainingSpeed": 0.8
+        },
+        "neededFood": 1000,
+        "neededTime": 45,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_3",
+        "neededOre": 0,
+        "neededLumber": 1000
+      },
+      {
+        "benefits": {
+          "Power": 500,
+          "TrainingSpeed": 1
+        },
+        "neededFood": 1400,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_4",
+        "neededOre": 0,
+        "neededLumber": 1400
+      },
+      {
+        "benefits": {
+          "Power": 800,
+          "TrainingSpeed": 1.2
+        },
+        "neededFood": 2000,
+        "neededTime": 60,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_5",
+        "neededOre": 0,
+        "neededLumber": 2000
+      },
+      {
+        "benefits": {
+          "Power": 1200,
+          "TrainingSpeed": 1.4
+        },
+        "neededFood": 2700,
+        "neededTime": 90,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_6",
+        "neededOre": 0,
+        "neededLumber": 2700
+      },
+      {
+        "benefits": {
+          "Power": 1800,
+          "TrainingSpeed": 1.6
+        },
+        "neededFood": 3500,
+        "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_7",
+        "neededOre": 0,
+        "neededLumber": 3500
+      },
+      {
+        "benefits": {
+          "Power": 2400,
+          "TrainingSpeed": 1.8
+        },
+        "neededFood": 7000,
+        "neededTime": 210,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_8",
+        "neededOre": 0,
+        "neededLumber": 7000
+      },
+      {
+        "benefits": {
+          "Power": 3000,
+          "TrainingSpeed": 2
+        },
+        "neededFood": 12000,
+        "neededTime": 390,
+        "neededStone": 0,
+        "requiredBuildings": "Shelter_9",
+        "neededOre": 0,
+        "neededLumber": 12000
+      },
+      {
+        "benefits": {
+          "Power": 3800,
+          "TrainingSpeed": 2.2
+        },
+        "neededFood": 25000,
+        "neededTime": 570,
+        "neededStone": 500,
+        "requiredBuildings": "Shelter_10",
+        "neededOre": 0,
+        "neededLumber": 25000
+      },
+      {
+        "benefits": {
+          "Power": 4500,
+          "TrainingSpeed": 2.4
+        },
+        "neededFood": 35000,
+        "neededTime": 900,
+        "neededStone": 1250,
+        "requiredBuildings": "Shelter_11",
+        "neededOre": 0,
+        "neededLumber": 35000
+      },
+      {
+        "benefits": {
+          "Power": 5000,
+          "TrainingSpeed": 2.6
+        },
+        "neededFood": 50000,
+        "neededTime": 1440,
+        "neededStone": 2500,
+        "requiredBuildings": "Shelter_12",
+        "neededOre": 0,
+        "neededLumber": 50000
+      },
+      {
+        "benefits": {
+          "Power": 6000,
+          "TrainingSpeed": 2.8
+        },
+        "neededFood": 70000,
+        "neededTime": 1740,
+        "neededStone": 5000,
+        "requiredBuildings": "Shelter_13",
+        "neededOre": 0,
+        "neededLumber": 70000
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "TrainingSpeed": 3
+        },
+        "neededFood": 110000,
+        "neededTime": 2100,
+        "neededStone": 11000,
+        "requiredBuildings": "Shelter_14",
+        "neededOre": 0,
+        "neededLumber": 110000
+      },
+      {
+        "benefits": {
+          "Power": 8500,
+          "TrainingSpeed": 3.2
+        },
+        "neededFood": 160000,
+        "neededTime": 2580,
+        "neededStone": 20000,
+        "requiredBuildings": "Shelter_15",
+        "neededOre": 1000,
+        "neededLumber": 160000
+      },
+      {
+        "benefits": {
+          "Power": 10000,
+          "TrainingSpeed": 3.4
+        },
+        "neededFood": 230000,
+        "neededTime": 3300,
+        "neededStone": 40000,
+        "requiredBuildings": "Shelter_16",
+        "neededOre": 3000,
+        "neededLumber": 230000
+      },
+      {
+        "benefits": {
+          "Power": 11500,
+          "TrainingSpeed": 3.6
+        },
+        "neededFood": 320000,
+        "neededTime": 4200,
+        "neededStone": 65000,
+        "requiredBuildings": "Shelter_17",
+        "neededOre": 6500,
+        "neededLumber": 320000
+      },
+      {
+        "benefits": {
+          "Power": 13500,
+          "TrainingSpeed": 3.8
+        },
+        "neededFood": 450000,
+        "neededTime": 5400,
+        "neededStone": 90000,
+        "requiredBuildings": "Shelter_18",
+        "neededOre": 12000,
+        "neededLumber": 450000
+      },
+      {
+        "benefits": {
+          "Power": 15000,
+          "TrainingSpeed": 4
+        },
+        "neededFood": 560000,
+        "neededTime": 7200,
+        "neededStone": 120000,
+        "requiredBuildings": "Shelter_19",
+        "neededOre": 22000,
+        "neededLumber": 560000
+      },
+      {
+        "benefits": {
+          "Power": 18000,
+          "TrainingSpeed": 4.2
+        },
+        "neededFood": 720000,
+        "neededTime": 9900,
+        "neededStone": 170000,
+        "requiredBuildings": "Shelter_20",
+        "neededOre": 36000,
+        "neededLumber": 720000
+      },
+      {
+        "benefits": {
+          "Power": 22000,
+          "TrainingSpeed": 4.4
+        },
+        "neededFood": 950000,
+        "neededTime": 13500,
+        "neededStone": 240000,
+        "requiredBuildings": "Shelter_21",
+        "neededOre": 60000,
+        "neededLumber": 950000
+      },
+      {
+        "benefits": {
+          "Power": 24000,
+          "TrainingSpeed": 4.6
+        },
+        "neededFood": 1200000,
+        "neededTime": 19200,
+        "neededStone": 350000,
+        "requiredBuildings": "Shelter_22",
+        "neededOre": 95000,
+        "neededLumber": 1200000
+      },
+      {
+        "benefits": {
+          "Power": 27000,
+          "TrainingSpeed": 4.8
+        },
+        "neededFood": 1600000,
+        "neededTime": 26400,
+        "neededStone": 450000,
+        "requiredBuildings": "Shelter_23",
+        "neededOre": 130000,
+        "neededLumber": 1600000
+      },
+      {
+        "benefits": {
+          "Power": 30000,
+          "TrainingSpeed": 5
+        },
+        "neededFood": 2200000,
+        "neededTime": 36000,
+        "neededStone": 620000,
+        "requiredBuildings": "Shelter_24",
+        "neededOre": 175000,
+        "neededLumber": 2200000
+      },
+      {
+        "benefits": {
+          "Power": 35000,
+          "TrainingSpeed": 5.2
+        },
+        "neededFood": 3000000,
+        "neededTime": 42600,
+        "neededStone": 800000,
+        "requiredBuildings": "Shelter_25",
+        "neededOre": 230000,
+        "neededLumber": 3000000
+      },
+      {
+        "benefits": {
+          "Power": 39000,
+          "TrainingSpeed": 5.4
+        },
+        "neededFood": 3900000,
+        "neededTime": 49800,
+        "neededStone": 1000000,
+        "requiredBuildings": "Shelter_26",
+        "neededOre": 300000,
+        "neededLumber": 3900000
+      },
+      {
+        "benefits": {
+          "Power": 43000,
+          "TrainingSpeed": 5.6
+        },
+        "neededFood": 5000000,
+        "neededTime": 58200,
+        "neededStone": 1300000,
+        "requiredBuildings": "Shelter_27",
+        "neededOre": 400000,
+        "neededLumber": 5000000
+      },
+      {
+        "benefits": {
+          "Power": 48000,
+          "TrainingSpeed": 5.8
+        },
+        "neededFood": 6400000,
+        "neededTime": 67800,
+        "neededStone": 1700000,
+        "requiredBuildings": "Shelter_28",
+        "neededOre": 510000,
+        "neededLumber": 6400000
+      },
+      {
+        "benefits": {
+          "Power": 54000,
+          "TrainingSpeed": 6
+        },
+        "neededFood": 8000000,
+        "neededTime": 79200,
+        "neededStone": 2200000,
+        "requiredBuildings": "Shelter_29",
+        "neededOre": 640000,
+        "neededLumber": 8000000
+      }
+    ],
+    "maxBuilds": 2,
+    "description": "Reduce the time it takes to train your military units"
+  }
+]
