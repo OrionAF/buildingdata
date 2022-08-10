@@ -771,360 +771,360 @@
           "TroopAttackPercent": 1,
           "Power": 1000
         },
-        "neededFood": 6000,
+        "neededFood": 1000,
         "neededTime": 120,
         "neededStone": 0,
         "requiredBuildings": "Shelter_0",
         "neededOre": 0,
-        "neededLumber": 6000
+        "neededLumber": 1000
       },
       {
         "benefits": {
           "TroopAttackPercent": 2,
           "Power": 2500
         },
-        "neededFood": 12000,
+        "neededFood": 3000,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "Shelter_1",
         "neededOre": 0,
-        "neededLumber": 12000
+        "neededLumber": 3000
       },
       {
         "benefits": {
           "TroopAttackPercent": 3,
           "Power": 6000
         },
-        "neededFood": 18000,
+        "neededFood": 4800,
         "neededTime": 300,
         "neededStone": 0,
         "requiredBuildings": "Shelter_2",
         "neededOre": 0,
-        "neededLumber": 18000
+        "neededLumber": 4800
       },
       {
         "benefits": {
           "TroopAttackPercent": 4,
           "Power": 10000
         },
-        "neededFood": 25000,
+        "neededFood": 6400,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "Shelter_3",
         "neededOre": 0,
-        "neededLumber": 25000
+        "neededLumber": 6400
       },
       {
         "benefits": {
           "TroopAttackPercent": 5,
           "Power": 15000
         },
-        "neededFood": 34000,
+        "neededFood": 8400,
         "neededTime": 480,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 34000
+        "neededLumber": 8400
       },
       {
         "benefits": {
           "TroopAttackPercent": 6,
           "Power": 25000
         },
-        "neededFood": 45000,
+        "neededFood": 12000,
         "neededTime": 900,
         "neededStone": 0,
         "requiredBuildings": "Shelter_5",
         "neededOre": 0,
-        "neededLumber": 45000
+        "neededLumber": 12000
       },
       {
         "benefits": {
           "TroopAttackPercent": 7,
           "Power": 40000
         },
-        "neededFood": 63000,
+        "neededFood": 18000,
         "neededTime": 2400,
         "neededStone": 0,
         "requiredBuildings": "Shelter_6",
         "neededOre": 0,
-        "neededLumber": 63000
+        "neededLumber": 18000
       },
       {
         "benefits": {
           "TroopAttackPercent": 8,
           "Power": 60000
         },
-        "neededFood": 100000,
+        "neededFood": 26000,
         "neededTime": 4200,
         "neededStone": 0,
         "requiredBuildings": "Shelter_7",
         "neededOre": 0,
-        "neededLumber": 100000
+        "neededLumber": 26000
       },
       {
         "benefits": {
           "TroopAttackPercent": 9,
           "Power": 80000
         },
-        "neededFood": 200000,
+        "neededFood": 50000,
         "neededTime": 7200,
         "neededStone": 0,
         "requiredBuildings": "Shelter_8",
         "neededOre": 0,
-        "neededLumber": 200000
+        "neededLumber": 50000
       },
       {
         "benefits": {
           "TroopAttackPercent": 10,
           "Power": 110000
         },
-        "neededFood": 360000,
+        "neededFood": 92000,
         "neededTime": 10800,
         "neededStone": 0,
         "requiredBuildings": "Shelter_9",
         "neededOre": 0,
-        "neededLumber": 360000
+        "neededLumber": 92000
       },
       {
         "benefits": {
           "TroopAttackPercent": 11,
           "Power": 135000
         },
-        "neededFood": 700000,
+        "neededFood": 200000,
         "neededTime": 14400,
-        "neededStone": 15000,
+        "neededStone": 10000,
         "requiredBuildings": "Shelter_10",
         "neededOre": 0,
-        "neededLumber": 700000
+        "neededLumber": 200000
       },
       {
         "benefits": {
           "TroopAttackPercent": 12,
           "Power": 150000
         },
-        "neededFood": 1200000,
+        "neededFood": 300000,
         "neededTime": 25200,
-        "neededStone": 40000,
+        "neededStone": 15000,
         "requiredBuildings": "Shelter_11",
         "neededOre": 0,
-        "neededLumber": 1200000
+        "neededLumber": 300000
       },
       {
         "benefits": {
           "TroopAttackPercent": 13,
           "Power": 170000
         },
-        "neededFood": 1500000,
+        "neededFood": 440000,
         "neededTime": 39600,
-        "neededStone": 75000,
+        "neededStone": 35000,
         "requiredBuildings": "Shelter_12",
         "neededOre": 0,
-        "neededLumber": 1500000
+        "neededLumber": 440000
       },
       {
         "benefits": {
           "TroopAttackPercent": 14,
           "Power": 200000
         },
-        "neededFood": 2000000,
+        "neededFood": 560000,
         "neededTime": 46800,
-        "neededStone": 150000,
+        "neededStone": 60000,
         "requiredBuildings": "Shelter_13",
         "neededOre": 0,
-        "neededLumber": 2000000
+        "neededLumber": 560000
       },
       {
         "benefits": {
           "TroopAttackPercent": 15,
           "Power": 240000
         },
-        "neededFood": 3200000,
+        "neededFood": 900000,
         "neededTime": 57600,
-        "neededStone": 320000,
+        "neededStone": 80000,
         "requiredBuildings": "Shelter_14",
         "neededOre": 0,
-        "neededLumber": 3200000
+        "neededLumber": 900000
       },
       {
         "benefits": {
           "TroopAttackPercent": 16,
           "Power": 290000
         },
-        "neededFood": 4500000,
+        "neededFood": 1240000,
         "neededTime": 72000,
-        "neededStone": 600000,
+        "neededStone": 100000,
         "requiredBuildings": "Shelter_15",
-        "neededOre": 25000,
-        "neededLumber": 4500000
+        "neededOre": 7000,
+        "neededLumber": 1240000
       },
       {
         "benefits": {
           "TroopAttackPercent": 17,
           "Power": 340000
         },
-        "neededFood": 7000000,
+        "neededFood": 1800000,
         "neededTime": 90000,
-        "neededStone": 1200000,
+        "neededStone": 300000,
         "requiredBuildings": "Shelter_16",
-        "neededOre": 80000,
-        "neededLumber": 7000000
+        "neededOre": 20000,
+        "neededLumber": 1800000
       },
       {
         "benefits": {
           "TroopAttackPercent": 18,
           "Power": 400000
         },
-        "neededFood": 10000000,
+        "neededFood": 2600000,
         "neededTime": 115200,
-        "neededStone": 1750000,
+        "neededStone": 500000,
         "requiredBuildings": "Shelter_17",
-        "neededOre": 200000,
-        "neededLumber": 10000000
+        "neededOre": 50000,
+        "neededLumber": 2600000
       },
       {
         "benefits": {
           "TroopAttackPercent": 19,
           "Power": 480000
         },
-        "neededFood": 12500000,
+        "neededFood": 3600000,
         "neededTime": 158400,
-        "neededStone": 2500000,
+        "neededStone": 750000,
         "requiredBuildings": "Shelter_18",
-        "neededOre": 350000,
-        "neededLumber": 12500000
+        "neededOre": 90000,
+        "neededLumber": 3600000
       },
       {
         "benefits": {
           "TroopAttackPercent": 20,
           "Power": 550000
         },
-        "neededFood": 16000000,
+        "neededFood": 5000000,
         "neededTime": 194400,
-        "neededStone": 3500000,
+        "neededStone": 1000000,
         "requiredBuildings": "Shelter_19",
-        "neededOre": 620000,
-        "neededLumber": 16000000
+        "neededOre": 160000,
+        "neededLumber": 5000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 21,
           "Power": 650000
         },
-        "neededFood": 22500000,
+        "neededFood": 6000000,
         "neededTime": 273600,
-        "neededStone": 4800000,
+        "neededStone": 1500000,
         "requiredBuildings": "Shelter_20",
-        "neededOre": 1250000,
-        "neededLumber": 22500000
+        "neededOre": 300000,
+        "neededLumber": 6000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 22,
           "Power": 750000
         },
-        "neededFood": 28000000,
+        "neededFood": 7800000,
         "neededTime": 378000,
-        "neededStone": 6500000,
+        "neededStone": 2000000,
         "requiredBuildings": "Shelter_21",
-        "neededOre": 1700000,
-        "neededLumber": 28000000
+        "neededOre": 460000,
+        "neededLumber": 7800000
       },
       {
         "benefits": {
           "TroopAttackPercent": 23,
           "Power": 900000
         },
-        "neededFood": 35000000,
+        "neededFood": 10000000,
         "neededTime": 529200,
-        "neededStone": 9000000,
+        "neededStone": 3000000,
         "requiredBuildings": "Shelter_22",
-        "neededOre": 2800000,
-        "neededLumber": 35000000
+        "neededOre": 700000,
+        "neededLumber": 10000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 24,
           "Power": 1100000
         },
-        "neededFood": 48000000,
+        "neededFood": 12000000,
         "neededTime": 727200,
-        "neededStone": 12500000,
+        "neededStone": 5000000,
         "requiredBuildings": "Shelter_23",
-        "neededOre": 3800000,
-        "neededLumber": 48000000
+        "neededOre": 960000,
+        "neededLumber": 12000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 25,
           "Power": 1300000
         },
-        "neededFood": 65000000,
+        "neededFood": 17600000,
         "neededTime": 1036800,
-        "neededStone": 17000000,
+        "neededStone": 6000000,
         "requiredBuildings": "Shelter_24",
-        "neededOre": 5000000,
-        "neededLumber": 65000000
+        "neededOre": 1300000,
+        "neededLumber": 17600000
       },
       {
         "benefits": {
           "TroopAttackPercent": 26,
           "Power": 1600000
         },
-        "neededFood": 85000000,
+        "neededFood": 35000000,
         "neededTime": 1209600,
-        "neededStone": 23000000,
+        "neededStone": 10000000,
         "requiredBuildings": "Shelter_25",
-        "neededOre": 6600000,
-        "neededLumber": 85000000
+        "neededOre": 2000000,
+        "neededLumber": 35000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 27,
           "Power": 2000000
         },
-        "neededFood": 120000000,
+        "neededFood": 42500000,
         "neededTime": 1382400,
-        "neededStone": 32000000,
+        "neededStone": 12500000,
         "requiredBuildings": "Shelter_26",
-        "neededOre": 9000000,
-        "neededLumber": 120000000
+        "neededOre": 2800000,
+        "neededLumber": 42500000
       },
       {
         "benefits": {
           "TroopAttackPercent": 28,
           "Power": 2400000
         },
-        "neededFood": 150000000,
+        "neededFood": 55000000,
         "neededTime": 1641600,
-        "neededStone": 42000000,
+        "neededStone": 16000000,
         "requiredBuildings": "Shelter_27",
-        "neededOre": 12000000,
-        "neededLumber": 150000000
+        "neededOre": 3500000,
+        "neededLumber": 55000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 29,
           "Power": 2900000
         },
-        "neededFood": 190000000,
+        "neededFood": 60000000,
         "neededTime": 1900800,
-        "neededStone": 53000000,
+        "neededStone": 19000000,
         "requiredBuildings": "Shelter_28",
-        "neededOre": 15000000,
-        "neededLumber": 190000000
+        "neededOre": 5000000,
+        "neededLumber": 60000000
       },
       {
         "benefits": {
           "TroopAttackPercent": 30,
           "Power": 3500000
         },
-        "neededFood": 240000000,
+        "neededFood": 70000000,
         "neededTime": 2203200,
-        "neededStone": 65000000,
+        "neededStone": 35000000,
         "requiredBuildings": "Shelter_29",
-        "neededOre": 20000000,
-        "neededLumber": 240000000
+        "neededOre": 17500000,
+        "neededLumber": 70000000
       }
     ],
     "description": "Enhance your shelter's security",
