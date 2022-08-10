@@ -2593,7 +2593,7 @@
           "WallDurability": 37000,
           "Power": 450000
         },
-        "neededFood": 33000000,
+        "neededFood": 33000000
         "neededTime": 349200,
         "neededStone": 9600000,
         "requiredBuildings": "Shelter_27",
