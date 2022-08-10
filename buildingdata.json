@@ -5999,360 +5999,360 @@
           "ReconLevel": 0,
           "Power": 150
         },
-        "neededFood": 1250,
+        "neededFood": 200,
         "neededTime": 60,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 1250
+        "neededLumber": 200
       },
       {
         "benefits": {
           "ReconLevel": 1,
           "Power": 500
         },
-        "neededFood": 2500,
+        "neededFood": 600,
         "neededTime": 150,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 2500
+        "neededLumber": 600
       },
       {
         "benefits": {
           "ReconLevel": 2,
           "Power": 1000
         },
-        "neededFood": 4000,
+        "neededFood": 960,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 4000
+        "neededLumber": 960
       },
       {
         "benefits": {
           "ReconLevel": 3,
           "Power": 2000
         },
-        "neededFood": 5500,
+        "neededFood": 1280,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 5500
+        "neededLumber": 1280
       },
       {
         "benefits": {
           "ReconLevel": 4,
           "Power": 3000
         },
-        "neededFood": 7500,
+        "neededFood": 1680,
         "neededTime": 300,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 7500
+        "neededLumber": 1680
       },
       {
         "benefits": {
           "ReconLevel": 5,
           "Power": 5000
         },
-        "neededFood": 10000,
+        "neededFood": 2400,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "Shelter_5",
         "neededOre": 0,
-        "neededLumber": 10000
+        "neededLumber": 2400
       },
       {
         "benefits": {
           "ReconLevel": 6,
           "Power": 7500
         },
-        "neededFood": 14000,
+        "neededFood": 3600,
         "neededTime": 390,
         "neededStone": 0,
         "requiredBuildings": "Shelter_6",
         "neededOre": 0,
-        "neededLumber": 14000
+        "neededLumber": 3600
       },
       {
         "benefits": {
           "ReconLevel": 7,
           "Power": 10000
         },
-        "neededFood": 20000,
+        "neededFood": 5200,
         "neededTime": 720,
         "neededStone": 0,
         "requiredBuildings": "Shelter_7",
         "neededOre": 0,
-        "neededLumber": 20000
+        "neededLumber": 5200
       },
       {
         "benefits": {
           "ReconLevel": 8,
           "Power": 15000
         },
-        "neededFood": 40000,
+        "neededFood": 10000,
         "neededTime": 1260,
         "neededStone": 0,
         "requiredBuildings": "Shelter_8",
         "neededOre": 0,
-        "neededLumber": 40000
+        "neededLumber": 10000
       },
       {
         "benefits": {
           "ReconLevel": 9,
           "Power": 20000
         },
-        "neededFood": 70000,
+        "neededFood": 18400,
         "neededTime": 2280,
         "neededStone": 0,
         "requiredBuildings": "Shelter_9",
         "neededOre": 0,
-        "neededLumber": 70000
+        "neededLumber": 18400
       },
       {
         "benefits": {
           "ReconLevel": 10,
           "Power": 25000
         },
-        "neededFood": 150000,
+        "neededFood": 40000,
         "neededTime": 3420,
-        "neededStone": 2500,
+        "neededStone": 2000,
         "requiredBuildings": "Shelter_10",
         "neededOre": 0,
-        "neededLumber": 150000
+        "neededLumber": 40000
       },
       {
         "benefits": {
           "ReconLevel": 11,
           "Power": 30000
         },
-        "neededFood": 215000,
+        "neededFood": 60000,
         "neededTime": 5400,
-        "neededStone": 4500,
+        "neededStone": 3000,
         "requiredBuildings": "Shelter_11",
         "neededOre": 0,
-        "neededLumber": 215000
+        "neededLumber": 60000
       },
       {
         "benefits": {
           "ReconLevel": 12,
           "Power": 35000
         },
-        "neededFood": 290000,
+        "neededFood": 88000,
         "neededTime": 8700,
-        "neededStone": 16000,
+        "neededStone": 7000,
         "requiredBuildings": "Shelter_12",
         "neededOre": 0,
-        "neededLumber": 290000
+        "neededLumber": 88000
       },
       {
         "benefits": {
           "ReconLevel": 13,
           "Power": 40000
         },
-        "neededFood": 400000,
+        "neededFood": 112000,
         "neededTime": 10500,
-        "neededStone": 32000,
+        "neededStone": 12000,
         "requiredBuildings": "Shelter_13",
         "neededOre": 0,
-        "neededLumber": 400000
+        "neededLumber": 112000
       },
       {
         "benefits": {
           "ReconLevel": 14,
           "Power": 48000
         },
-        "neededFood": 660000,
+        "neededFood": 180000,
         "neededTime": 12600,
-        "neededStone": 70000,
+        "neededStone": 16000,
         "requiredBuildings": "Shelter_14",
         "neededOre": 0,
-        "neededLumber": 660000
+        "neededLumber": 180000
       },
       {
         "benefits": {
           "ReconLevel": 15,
           "Power": 56000
         },
-        "neededFood": 950000,
+        "neededFood": 248000,
         "neededTime": 15600,
-        "neededStone": 125000,
+        "neededStone": 20000,
         "requiredBuildings": "Shelter_15",
-        "neededOre": 5000,
-        "neededLumber": 950000
+        "neededOre": 1400,
+        "neededLumber": 248000
       },
       {
         "benefits": {
           "ReconLevel": 16,
           "Power": 65000
         },
-        "neededFood": 1400000,
+        "neededFood": 360000,
         "neededTime": 19800,
-        "neededStone": 240000,
+        "neededStone": 60000,
         "requiredBuildings": "Shelter_16",
-        "neededOre": 17000,
-        "neededLumber": 1400000
+        "neededOre": 4000,
+        "neededLumber": 360000
       },
       {
         "benefits": {
           "ReconLevel": 17,
           "Power": 75000
         },
-        "neededFood": 2000000,
+        "neededFood": 520000,
         "neededTime": 25200,
-        "neededStone": 360000,
+        "neededStone": 100000,
         "requiredBuildings": "Shelter_17",
-        "neededOre": 38000,
-        "neededLumber": 2000000
+        "neededOre": 10000,
+        "neededLumber": 520000
       },
       {
         "benefits": {
           "ReconLevel": 18,
           "Power": 90000
         },
-        "neededFood": 2600000,
+        "neededFood": 720000,
         "neededTime": 31800,
-        "neededStone": 550000,
+        "neededStone": 150000,
         "requiredBuildings": "Shelter_18",
-        "neededOre": 73000,
-        "neededLumber": 2600000
+        "neededOre": 18000,
+        "neededLumber": 720000
       },
       {
         "benefits": {
           "ReconLevel": 19,
           "Power": 110000
         },
-        "neededFood": 3400000,
+        "neededFood": 1000000,
         "neededTime": 42000,
-        "neededStone": 720000,
+        "neededStone": 200000,
         "requiredBuildings": "Shelter_19",
-        "neededOre": 130000,
-        "neededLumber": 3400000
+        "neededOre": 32000,
+        "neededLumber": 1000000
       },
       {
         "benefits": {
           "ReconLevel": 20,
           "Power": 130000
         },
-        "neededFood": 4350000,
+        "neededFood": 1200000,
         "neededTime": 58200,
-        "neededStone": 1000000,
+        "neededStone": 300000,
         "requiredBuildings": "Shelter_20",
-        "neededOre": 216000,
-        "neededLumber": 4350000
+        "neededOre": 60000,
+        "neededLumber": 1200000
       },
       {
         "benefits": {
           "ReconLevel": 21,
           "Power": 160000
         },
-        "neededFood": 5500000,
+        "neededFood": 1560000,
         "neededTime": 81000,
-        "neededStone": 1400000,
+        "neededStone": 400000,
         "requiredBuildings": "Shelter_21",
-        "neededOre": 350000,
-        "neededLumber": 5500000
+        "neededOre": 92000,
+        "neededLumber": 1560000
       },
       {
         "benefits": {
           "ReconLevel": 22,
           "Power": 180000
         },
-        "neededFood": 7500000,
+        "neededFood": 2000000,
         "neededTime": 133440,
-        "neededStone": 2000000,
+        "neededStone": 600000,
         "requiredBuildings": "Shelter_22",
-        "neededOre": 570000,
-        "neededLumber": 7500000
+        "neededOre": 140000,
+        "neededLumber": 2000000
       },
       {
         "benefits": {
           "ReconLevel": 23,
           "Power": 200000
         },
-        "neededFood": 10000000,
+        "neededFood": 2400000,
         "neededTime": 156600,
-        "neededStone": 2700000,
+        "neededStone": 1000000,
         "requiredBuildings": "Shelter_23",
-        "neededOre": 780000,
-        "neededLumber": 10000000
+        "neededOre": 192000,
+        "neededLumber": 2400000
       },
       {
         "benefits": {
           "ReconLevel": 24,
           "Power": 230000
         },
-        "neededFood": 13500000,
+        "neededFood": 3520000,
         "neededTime": 214200,
-        "neededStone": 3700000,
+        "neededStone": 1200000,
         "requiredBuildings": "Shelter_24",
-        "neededOre": 1050000,
-        "neededLumber": 13500000
+        "neededOre": 260000,
+        "neededLumber": 3520000
       },
       {
         "benefits": {
           "ReconLevel": 25,
           "Power": 280000
         },
-        "neededFood": 17500000,
+        "neededFood": 7000000,
         "neededTime": 253800,
-        "neededStone": 5000000,
+        "neededStone": 2000000,
         "requiredBuildings": "Shelter_25",
-        "neededOre": 1400000,
-        "neededLumber": 17500000
+        "neededOre": 400000,
+        "neededLumber": 7000000
       },
       {
         "benefits": {
           "ReconLevel": 26,
           "Power": 350000
         },
-        "neededFood": 23000000,
+        "neededFood": 8500000,
         "neededTime": 298800,
-        "neededStone": 6500000,
+        "neededStone": 2500000,
         "requiredBuildings": "Shelter_26",
-        "neededOre": 1850000,
-        "neededLumber": 23000000
+        "neededOre": 560000,
+        "neededLumber": 8500000
       },
       {
         "benefits": {
           "ReconLevel": 27,
           "Power": 450000
         },
-        "neededFood": 31000000,
+        "neededFood": 11000000,
         "neededTime": 349200,
-        "neededStone": 8500000,
+        "neededStone": 3200000,
         "requiredBuildings": "Shelter_27",
-        "neededOre": 2400000,
-        "neededLumber": 31000000
+        "neededOre": 700000,
+        "neededLumber": 11000000
       },
       {
         "benefits": {
           "ReconLevel": 28,
           "Power": 600000
         },
-        "neededFood": 40000000,
+        "neededFood": 12000000,
         "neededTime": 406800,
-        "neededStone": 11000000,
+        "neededStone": 3800000,
         "requiredBuildings": "Shelter_28",
-        "neededOre": 3200000,
-        "neededLumber": 40000000
+        "neededOre": 1000000,
+        "neededLumber": 12000000
       },
       {
         "benefits": {
           "ReconLevel": 29,
           "Power": 800000
         },
-        "neededFood": 50000000,
+        "neededFood": 14000000,
         "neededTime": 475200,
-        "neededStone": 14000000,
+        "neededStone": 7000000,
         "requiredBuildings": "Shelter_29",
-        "neededOre": 4000000,
-        "neededLumber": 50000000
+        "neededOre": 3500000,
+        "neededLumber": 14000000
       }
     ],
     "maxBuilds": 1,
