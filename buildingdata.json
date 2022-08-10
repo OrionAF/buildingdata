@@ -2269,360 +2269,360 @@
           "WallDurability": 10000,
           "Power": 150
         },
-        "neededFood": 1250,
+        "neededFood": 600,
         "neededTime": 5,
         "neededStone": 0,
         "requiredBuildings": "Shelter_0",
         "neededOre": 0,
-        "neededLumber": 1250
+        "neededLumber": 600
       },
       {
         "benefits": {
           "WallDurability": 11000,
           "Power": 500
         },
-        "neededFood": 2500,
+        "neededFood": 1800,
         "neededTime": 5,
         "neededStone": 0,
         "requiredBuildings": "Shelter_1",
         "neededOre": 0,
-        "neededLumber": 2500
+        "neededLumber": 1800
       },
       {
         "benefits": {
           "WallDurability": 12000,
           "Power": 1000
         },
-        "neededFood": 4000,
+        "neededFood": 2880,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "Shelter_2",
         "neededOre": 0,
-        "neededLumber": 4000
+        "neededLumber": 2880
       },
       {
         "benefits": {
           "WallDurability": 13000,
           "Power": 2000
         },
-        "neededFood": 5500,
+        "neededFood": 3840,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "Shelter_3",
         "neededOre": 0,
-        "neededLumber": 5500
+        "neededLumber": 3840
       },
       {
         "benefits": {
           "WallDurability": 14000,
           "Power": 3000
         },
-        "neededFood": 7500,
+        "neededFood": 5040,
         "neededTime": 300,
         "neededStone": 0,
         "requiredBuildings": "Shelter_4",
         "neededOre": 0,
-        "neededLumber": 7500
+        "neededLumber": 5040
       },
       {
         "benefits": {
           "WallDurability": 15000,
           "Power": 5000
         },
-        "neededFood": 10000,
+        "neededFood": 7200,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "Shelter_5",
         "neededOre": 0,
-        "neededLumber": 10000
+        "neededLumber": 7200
       },
       {
         "benefits": {
           "WallDurability": 16000,
           "Power": 7500
         },
-        "neededFood": 14000,
+        "neededFood": 10800,
         "neededTime": 390,
         "neededStone": 0,
         "requiredBuildings": "Shelter_6",
         "neededOre": 0,
-        "neededLumber": 14000
+        "neededLumber": 10800
       },
       {
         "benefits": {
           "WallDurability": 17000,
           "Power": 10000
         },
-        "neededFood": 20000,
+        "neededFood": 15600,
         "neededTime": 720,
         "neededStone": 0,
         "requiredBuildings": "Shelter_7",
         "neededOre": 0,
-        "neededLumber": 20000
+        "neededLumber": 15600
       },
       {
         "benefits": {
           "WallDurability": 18000,
           "Power": 15000
         },
-        "neededFood": 40000,
+        "neededFood": 30000,
         "neededTime": 1260,
         "neededStone": 0,
         "requiredBuildings": "Shelter_8",
         "neededOre": 0,
-        "neededLumber": 40000
+        "neededLumber": 30000
       },
       {
         "benefits": {
           "WallDurability": 19000,
           "Power": 20000
         },
-        "neededFood": 70000,
+        "neededFood": 55200,
         "neededTime": 2280,
         "neededStone": 0,
         "requiredBuildings": "Shelter_9",
         "neededOre": 0,
-        "neededLumber": 70000
+        "neededLumber": 55200
       },
       {
         "benefits": {
           "WallDurability": 20000,
           "Power": 25000
         },
-        "neededFood": 150000,
+        "neededFood": 120000,
         "neededTime": 3420,
-        "neededStone": 2500,
+        "neededStone": 6000,
         "requiredBuildings": "Shelter_10",
         "neededOre": 0,
-        "neededLumber": 150000
+        "neededLumber": 120000
       },
       {
         "benefits": {
           "WallDurability": 21000,
           "Power": 30000
         },
-        "neededFood": 215000,
+        "neededFood": 180000,
         "neededTime": 5400,
-        "neededStone": 4500,
+        "neededStone": 9000,
         "requiredBuildings": "Shelter_11",
         "neededOre": 0,
-        "neededLumber": 215000
+        "neededLumber": 180000
       },
       {
         "benefits": {
           "WallDurability": 22000,
           "Power": 35000
         },
-        "neededFood": 290000,
+        "neededFood": 264000,
         "neededTime": 8700,
-        "neededStone": 16000,
+        "neededStone": 21000,
         "requiredBuildings": "Shelter_12",
         "neededOre": 0,
-        "neededLumber": 290000
+        "neededLumber": 264000
       },
       {
         "benefits": {
           "WallDurability": 23000,
           "Power": 40000
         },
-        "neededFood": 400000,
+        "neededFood": 336000,
         "neededTime": 10500,
-        "neededStone": 32000,
+        "neededStone": 36000,
         "requiredBuildings": "Shelter_13",
         "neededOre": 0,
-        "neededLumber": 400000
+        "neededLumber": 336000
       },
       {
         "benefits": {
           "WallDurability": 24000,
           "Power": 48000
         },
-        "neededFood": 660000,
+        "neededFood": 540000,
         "neededTime": 12600,
-        "neededStone": 70000,
+        "neededStone": 48000,
         "requiredBuildings": "Shelter_14",
         "neededOre": 0,
-        "neededLumber": 660000
+        "neededLumber": 540000
       },
       {
         "benefits": {
           "WallDurability": 25000,
           "Power": 56000
         },
-        "neededFood": 950000,
+        "neededFood": 744000,
         "neededTime": 15600,
-        "neededStone": 125000,
+        "neededStone": 60000,
         "requiredBuildings": "Shelter_15",
-        "neededOre": 5000,
-        "neededLumber": 950000
+        "neededOre": 4200,
+        "neededLumber": 744000
       },
       {
         "benefits": {
           "WallDurability": 26000,
           "Power": 65000
         },
-        "neededFood": 1400000,
+        "neededFood": 1080000,
         "neededTime": 19800,
-        "neededStone": 240000,
+        "neededStone": 180000,
         "requiredBuildings": "Shelter_16",
-        "neededOre": 17000,
-        "neededLumber": 1400000
+        "neededOre": 12000,
+        "neededLumber": 1080000
       },
       {
         "benefits": {
           "WallDurability": 27000,
           "Power": 75000
         },
-        "neededFood": 2000000,
+        "neededFood": 1560000,
         "neededTime": 25200,
-        "neededStone": 360000,
+        "neededStone": 300000,
         "requiredBuildings": "Shelter_17",
-        "neededOre": 38000,
-        "neededLumber": 2000000
+        "neededOre": 30000,
+        "neededLumber": 1560000
       },
       {
         "benefits": {
           "WallDurability": 28000,
           "Power": 90000
         },
-        "neededFood": 2600000,
+        "neededFood": 2160000,
         "neededTime": 31800,
-        "neededStone": 550000,
+        "neededStone": 450000,
         "requiredBuildings": "Shelter_18",
-        "neededOre": 73000,
-        "neededLumber": 2600000
+        "neededOre": 54000,
+        "neededLumber": 2160000
       },
       {
         "benefits": {
           "WallDurability": 29000,
           "Power": 110000
         },
-        "neededFood": 3400000,
+        "neededFood": 3000000,
         "neededTime": 42000,
-        "neededStone": 720000,
+        "neededStone": 600000,
         "requiredBuildings": "Shelter_19",
-        "neededOre": 130000,
-        "neededLumber": 3400000
+        "neededOre": 96000,
+        "neededLumber": 3000000
       },
       {
         "benefits": {
           "WallDurability": 30000,
           "Power": 130000
         },
-        "neededFood": 4350000,
+        "neededFood": 3600000,
         "neededTime": 58200,
-        "neededStone": 1000000,
+        "neededStone": 900000,
         "requiredBuildings": "Shelter_20",
-        "neededOre": 216000,
-        "neededLumber": 4350000
+        "neededOre": 180000,
+        "neededLumber": 3600000
       },
       {
         "benefits": {
           "WallDurability": 31000,
           "Power": 160000
         },
-        "neededFood": 5500000,
+        "neededFood": 4680000,
         "neededTime": 81000,
-        "neededStone": 1400000,
+        "neededStone": 1200000,
         "requiredBuildings": "Shelter_21",
-        "neededOre": 350000,
-        "neededLumber": 5500000
+        "neededOre": 276000,
+        "neededLumber": 4680000
       },
       {
         "benefits": {
           "WallDurability": 32000,
           "Power": 180000
         },
-        "neededFood": 7500000,
+        "neededFood": 6000000,
         "neededTime": 133440,
-        "neededStone": 2000000,
+        "neededStone": 1800000,
         "requiredBuildings": "Shelter_22",
-        "neededOre": 570000,
-        "neededLumber": 7500000
+        "neededOre": 420000,
+        "neededLumber": 6000000
       },
       {
         "benefits": {
           "WallDurability": 33000,
           "Power": 200000
         },
-        "neededFood": 10000000,
+        "neededFood": 7200000,
         "neededTime": 156600,
-        "neededStone": 2700000,
+        "neededStone": 3000000,
         "requiredBuildings": "Shelter_23",
-        "neededOre": 780000,
-        "neededLumber": 10000000
+        "neededOre": 576000,
+        "neededLumber": 7200000
       },
       {
         "benefits": {
           "WallDurability": 34000,
           "Power": 230000
         },
-        "neededFood": 13500000,
+        "neededFood": 10560000,
         "neededTime": 214200,
-        "neededStone": 3700000,
+        "neededStone": 3600000,
         "requiredBuildings": "Shelter_24",
-        "neededOre": 1050000,
-        "neededLumber": 13500000
+        "neededOre": 780000,
+        "neededLumber": 10560000
       },
       {
         "benefits": {
           "WallDurability": 35000,
           "Power": 280000
         },
-        "neededFood": 17500000,
+        "neededFood": 21000000,
         "neededTime": 253800,
-        "neededStone": 5000000,
+        "neededStone": 6000000,
         "requiredBuildings": "Shelter_25",
-        "neededOre": 1400000,
-        "neededLumber": 17500000
+        "neededOre": 1200000,
+        "neededLumber": 21000000
       },
       {
         "benefits": {
           "WallDurability": 36000,
           "Power": 350000
         },
-        "neededFood": 23000000,
+        "neededFood": 25500000,
         "neededTime": 298800,
-        "neededStone": 6500000,
+        "neededStone": 7500000,
         "requiredBuildings": "Shelter_26",
-        "neededOre": 1850000,
-        "neededLumber": 23000000
+        "neededOre": 1680000,
+        "neededLumber": 25500000
       },
       {
         "benefits": {
           "WallDurability": 37000,
           "Power": 450000
         },
-        "neededFood": 31000000,
+        "neededFood": 33000000,
         "neededTime": 349200,
-        "neededStone": 8500000,
+        "neededStone": 9600000,
         "requiredBuildings": "Shelter_27",
-        "neededOre": 2400000,
-        "neededLumber": 31000000
+        "neededOre": 2100000,
+        "neededLumber": 33000000
       },
       {
         "benefits": {
           "WallDurability": 38000,
           "Power": 600000
         },
-        "neededFood": 40000000,
+        "neededFood": 36000000,
         "neededTime": 406800,
-        "neededStone": 11000000,
+        "neededStone": 11400000,
         "requiredBuildings": "Shelter_28",
-        "neededOre": 3200000,
-        "neededLumber": 40000000
+        "neededOre": 3000000,
+        "neededLumber": 36000000
       },
       {
         "benefits": {
           "WallDurability": 39000,
           "Power": 800000
         },
-        "neededFood": 50000000,
+        "neededFood": 42000000,
         "neededTime": 475200,
-        "neededStone": 14000000,
+        "neededStone": 21000000,
         "requiredBuildings": "Shelter_29",
-        "neededOre": 4000000,
-        "neededLumber": 50000000
+        "neededOre": 10500000,
+        "neededLumber": 42000000
       }
     ],
     "description": "Your shelter's defense wall",
