@@ -5632,360 +5632,360 @@
           "HospitalCapacity": 250,
           "Power": 250
         },
-        "neededFood": 1500,
+        "neededFood": 250,
         "neededTime": 120,
         "neededStone": 0,
         "requiredBuildings": "Shelter_0",
         "neededOre": 0,
-        "neededLumber": 1500
+        "neededLumber": 250
       },
       {
         "benefits": {
           "HospitalCapacity": 500,
           "Power": 700
         },
-        "neededFood": 3500,
+        "neededFood": 750,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_1",
         "neededOre": 0,
-        "neededLumber": 3500
+        "neededLumber": 750
       },
       {
         "benefits": {
           "HospitalCapacity": 750,
           "Power": 1500
         },
-        "neededFood": 5000,
+        "neededFood": 1200,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_1",
         "neededOre": 0,
-        "neededLumber": 5000
+        "neededLumber": 1200
       },
       {
         "benefits": {
           "HospitalCapacity": 1000,
           "Power": 2600
         },
-        "neededFood": 7000,
+        "neededFood": 1600,
         "neededTime": 330,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_1",
         "neededOre": 0,
-        "neededLumber": 7000
+        "neededLumber": 1600
       },
       {
         "benefits": {
           "HospitalCapacity": 1250,
           "Power": 4000
         },
-        "neededFood": 9000,
+        "neededFood": 2100,
         "neededTime": 480,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_4",
         "neededOre": 0,
-        "neededLumber": 9000
+        "neededLumber": 2100
       },
       {
         "benefits": {
           "HospitalCapacity": 1500,
           "Power": 7000
         },
-        "neededFood": 12500,
+        "neededFood": 3000,
         "neededTime": 480,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_5",
         "neededOre": 0,
-        "neededLumber": 12500
+        "neededLumber": 3000
       },
       {
         "benefits": {
           "HospitalCapacity": 1750,
           "Power": 11000
         },
-        "neededFood": 18000,
+        "neededFood": 4500,
         "neededTime": 510,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_6",
         "neededOre": 0,
-        "neededLumber": 18000
+        "neededLumber": 4500
       },
       {
         "benefits": {
           "HospitalCapacity": 2000,
           "Power": 15000
         },
-        "neededFood": 27500,
+        "neededFood": 6500,
         "neededTime": 960,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_7",
         "neededOre": 0,
-        "neededLumber": 27500
+        "neededLumber": 6500
       },
       {
         "benefits": {
           "HospitalCapacity": 2250,
           "Power": 19000
         },
-        "neededFood": 53000,
+        "neededFood": 12500,
         "neededTime": 1620,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_8",
         "neededOre": 0,
-        "neededLumber": 53000
+        "neededLumber": 12500
       },
       {
         "benefits": {
           "HospitalCapacity": 2500,
           "Power": 25000
         },
-        "neededFood": 95000,
+        "neededFood": 23000,
         "neededTime": 3060,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_9",
         "neededOre": 0,
-        "neededLumber": 95000
+        "neededLumber": 23000
       },
       {
         "benefits": {
           "HospitalCapacity": 2750,
           "Power": 34000
         },
-        "neededFood": 200000,
+        "neededFood": 50000,
         "neededTime": 4800,
-        "neededStone": 3500,
+        "neededStone": 2500,
         "requiredBuildings": "TrainingGrounds_10",
         "neededOre": 0,
-        "neededLumber": 200000
+        "neededLumber": 50000
       },
       {
         "benefits": {
           "HospitalCapacity": 3000,
           "Power": 42000
         },
-        "neededFood": 290000,
+        "neededFood": 75000,
         "neededTime": 7200,
-        "neededStone": 10000,
+        "neededStone": 3750,
         "requiredBuildings": "TrainingGrounds_11",
         "neededOre": 0,
-        "neededLumber": 290000
+        "neededLumber": 75000
       },
       {
         "benefits": {
           "HospitalCapacity": 3250,
           "Power": 50000
         },
-        "neededFood": 400000,
+        "neededFood": 110000,
         "neededTime": 11700,
-        "neededStone": 20000,
+        "neededStone": 8750,
         "requiredBuildings": "TrainingGrounds_12",
         "neededOre": 0,
-        "neededLumber": 400000
+        "neededLumber": 110000
       },
       {
         "benefits": {
           "HospitalCapacity": 3500,
           "Power": 60000
         },
-        "neededFood": 550000,
+        "neededFood": 140000,
         "neededTime": 14100,
-        "neededStone": 45000,
+        "neededStone": 15000,
         "requiredBuildings": "TrainingGrounds_13",
         "neededOre": 0,
-        "neededLumber": 550000
+        "neededLumber": 140000
       },
       {
         "benefits": {
           "HospitalCapacity": 3750,
           "Power": 75000
         },
-        "neededFood": 900000,
+        "neededFood": 225000,
         "neededTime": 16800,
-        "neededStone": 90000,
+        "neededStone": 20000,
         "requiredBuildings": "TrainingGrounds_14",
         "neededOre": 0,
-        "neededLumber": 900000
+        "neededLumber": 225000
       },
       {
         "benefits": {
           "HospitalCapacity": 4750,
           "Power": 90000
         },
-        "neededFood": 1250000,
+        "neededFood": 310000,
         "neededTime": 20400,
-        "neededStone": 170000,
+        "neededStone": 25000,
         "requiredBuildings": "TrainingGrounds_15",
-        "neededOre": 7000,
-        "neededLumber": 1250000
+        "neededOre": 1750,
+        "neededLumber": 310000
       },
       {
         "benefits": {
           "HospitalCapacity": 6000,
           "Power": 110000
         },
-        "neededFood": 1800000,
+        "neededFood": 450000,
         "neededTime": 26400,
-        "neededStone": 320000,
+        "neededStone": 75000,
         "requiredBuildings": "TrainingGrounds_16",
-        "neededOre": 24000,
-        "neededLumber": 1800000
+        "neededOre": 5000,
+        "neededLumber": 450000
       },
       {
         "benefits": {
           "HospitalCapacity": 7500,
           "Power": 130000
         },
-        "neededFood": 2600000,
+        "neededFood": 650000,
         "neededTime": 33000,
-        "neededStone": 500000,
+        "neededStone": 125000,
         "requiredBuildings": "TrainingGrounds_17",
-        "neededOre": 52000,
-        "neededLumber": 2600000
+        "neededOre": 12500,
+        "neededLumber": 650000
       },
       {
         "benefits": {
           "HospitalCapacity": 9000,
           "Power": 155000
         },
-        "neededFood": 3400000,
+        "neededFood": 900000,
         "neededTime": 42600,
-        "neededStone": 700000,
+        "neededStone": 187500,
         "requiredBuildings": "TrainingGrounds_18",
-        "neededOre": 100000,
-        "neededLumber": 3400000
+        "neededOre": 22500,
+        "neededLumber": 900000
       },
       {
         "benefits": {
           "HospitalCapacity": 11000,
           "Power": 170000
         },
-        "neededFood": 4500000,
+        "neededFood": 1250000,
         "neededTime": 55800,
-        "neededStone": 960000,
+        "neededStone": 250000,
         "requiredBuildings": "TrainingGrounds_19",
-        "neededOre": 180000,
-        "neededLumber": 4500000
+        "neededOre": 40000,
+        "neededLumber": 1250000
       },
       {
         "benefits": {
           "HospitalCapacity": 13000,
           "Power": 190000
         },
-        "neededFood": 5800000,
+        "neededFood": 1500000,
         "neededTime": 78000,
-        "neededStone": 1350000,
+        "neededStone": 375000,
         "requiredBuildings": "TrainingGrounds_20",
-        "neededOre": 280000,
-        "neededLumber": 5800000
+        "neededOre": 75000,
+        "neededLumber": 1500000
       },
       {
         "benefits": {
           "HospitalCapacity": 15000,
           "Power": 220000
         },
-        "neededFood": 7500000,
+        "neededFood": 1950000,
         "neededTime": 108000,
-        "neededStone": 1900000,
+        "neededStone": 500000,
         "requiredBuildings": "TrainingGrounds_21",
-        "neededOre": 470000,
-        "neededLumber": 7500000
+        "neededOre": 115000,
+        "neededLumber": 1950000
       },
       {
         "benefits": {
           "HospitalCapacity": 20000,
           "Power": 260000
         },
-        "neededFood": 9500000,
+        "neededFood": 2500000,
         "neededTime": 151200,
-        "neededStone": 2700000,
+        "neededStone": 750000,
         "requiredBuildings": "TrainingGrounds_22",
-        "neededOre": 760000,
-        "neededLumber": 9500000
+        "neededOre": 175000,
+        "neededLumber": 2500000
       },
       {
         "benefits": {
           "HospitalCapacity": 25000,
           "Power": 300000
         },
-        "neededFood": 13000000,
+        "neededFood": 3000000,
         "neededTime": 208800,
-        "neededStone": 3600000,
+        "neededStone": 1250000,
         "requiredBuildings": "TrainingGrounds_23",
-        "neededOre": 1100000,
-        "neededLumber": 13000000
+        "neededOre": 240000,
+        "neededLumber": 3000000
       },
       {
         "benefits": {
           "HospitalCapacity": 30000,
           "Power": 350000
         },
-        "neededFood": 17500000,
+        "neededFood": 4400000,
         "neededTime": 288000,
-        "neededStone": 5000000,
+        "neededStone": 1500000,
         "requiredBuildings": "TrainingGrounds_24",
-        "neededOre": 1500000,
-        "neededLumber": 17500000
+        "neededOre": 325000,
+        "neededLumber": 4400000
       },
       {
         "benefits": {
           "HospitalCapacity": 35000,
           "Power": 430000
         },
-        "neededFood": 23500000,
+        "neededFood": 8750000,
         "neededTime": 338400,
-        "neededStone": 6500000,
+        "neededStone": 2500000,
         "requiredBuildings": "TrainingGrounds_25",
-        "neededOre": 1900000,
-        "neededLumber": 23500000
+        "neededOre": 500000,
+        "neededLumber": 8750000
       },
       {
         "benefits": {
           "HospitalCapacity": 45000,
           "Power": 550000
         },
-        "neededFood": 31000000,
+        "neededFood": 10625000,
         "neededTime": 396000,
-        "neededStone": 8800000,
+        "neededStone": 3125000,
         "requiredBuildings": "TrainingGrounds_26",
-        "neededOre": 2500000,
-        "neededLumber": 31000000
+        "neededOre": 700000,
+        "neededLumber": 10625000
       },
       {
         "benefits": {
           "HospitalCapacity": 55000,
           "Power": 700000
         },
-        "neededFood": 45000000,
+        "neededFood": 13750000,
         "neededTime": 464400,
-        "neededStone": 11500000,
+        "neededStone": 4000000,
         "requiredBuildings": "TrainingGrounds_27",
-        "neededOre": 3200000,
-        "neededLumber": 45000000
+        "neededOre": 875000,
+        "neededLumber": 13750000
       },
       {
         "benefits": {
           "HospitalCapacity": 65000,
           "Power": 850000
         },
-        "neededFood": 52000000,
+        "neededFood": 15000000,
         "neededTime": 540000,
-        "neededStone": 15000000,
+        "neededStone": 4750000,
         "requiredBuildings": "TrainingGrounds_28",
-        "neededOre": 4000000,
-        "neededLumber": 52000000
+        "neededOre": 1250000,
+        "neededLumber": 15000000
       },
       {
         "benefits": {
           "HospitalCapacity": 75000,
           "Power": 1000000
         },
-        "neededFood": 65000000,
+        "neededFood": 17500000,
         "neededTime": 630000,
-        "neededStone": 18000000,
+        "neededStone": 8750000,
         "requiredBuildings": "TrainingGrounds_29",
-        "neededOre": 5000000,
-        "neededLumber": 65000000
+        "neededOre": 4375000,
+        "neededLumber": 17500000
       }
     ],
     "description": "Without healing power, there is no army",
