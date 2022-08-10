@@ -6378,348 +6378,348 @@
           "MarchUnits": 700,
           "Power": 6000
         },
-        "neededFood": 15000,
+        "neededFood": 30000,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_0",
         "neededOre": 0,
-        "neededLumber": 15000
+        "neededLumber": 30000
       },
       {
         "benefits": {
           "MarchUnits": 1000,
           "Power": 10000
         },
-        "neededFood": 24000,
+        "neededFood": 48000,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_1",
         "neededOre": 0,
-        "neededLumber": 24000
+        "neededLumber": 48000
       },
       {
         "benefits": {
           "MarchUnits": 1400,
           "Power": 16000
         },
-        "neededFood": 32000,
+        "neededFood": 64000,
         "neededTime": 480,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_2",
         "neededOre": 0,
-        "neededLumber": 32000
+        "neededLumber": 64000
       },
       {
         "benefits": {
           "MarchUnits": 1850,
           "Power": 25000
         },
-        "neededFood": 42000,
+        "neededFood": 84000,
         "neededTime": 660,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_3",
         "neededOre": 0,
-        "neededLumber": 42000
+        "neededLumber": 84000
       },
       {
         "benefits": {
           "MarchUnits": 3000,
           "Power": 40000
         },
-        "neededFood": 60000,
+        "neededFood": 120000,
         "neededTime": 1200,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_4",
         "neededOre": 0,
-        "neededLumber": 60000
+        "neededLumber": 120000
       },
       {
         "benefits": {
           "MarchUnits": 4000,
           "Power": 55000
         },
-        "neededFood": 90000,
+        "neededFood": 180000,
         "neededTime": 3600,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_5",
         "neededOre": 0,
-        "neededLumber": 90000
+        "neededLumber": 180000
       },
       {
         "benefits": {
           "MarchUnits": 5300,
           "Power": 80000
         },
-        "neededFood": 130000,
+        "neededFood": 260000,
         "neededTime": 5400,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_6",
         "neededOre": 0,
-        "neededLumber": 130000
+        "neededLumber": 260000
       },
       {
         "benefits": {
           "MarchUnits": 6500,
           "Power": 100000
         },
-        "neededFood": 250000,
+        "neededFood": 500000,
         "neededTime": 9000,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_7",
         "neededOre": 0,
-        "neededLumber": 250000
+        "neededLumber": 500000
       },
       {
         "benefits": {
           "MarchUnits": 7800,
           "Power": 140000
         },
-        "neededFood": 460000,
+        "neededFood": 920000,
         "neededTime": 15600,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
-        "neededLumber": 460000
+        "neededLumber": 920000
       },
       {
         "benefits": {
           "MarchUnits": 10500,
           "Power": 170000
         },
-        "neededFood": 1000000,
+        "neededFood": 2000000,
         "neededTime": 21000,
-        "neededStone": 15000,
+        "neededStone": 100000,
         "requiredBuildings": "GuardShack_9",
         "neededOre": 0,
-        "neededLumber": 1000000
+        "neededLumber": 2000000
       },
       {
         "benefits": {
           "MarchUnits": 13400,
           "Power": 200000
         },
-        "neededFood": 1500000,
+        "neededFood": 3000000,
         "neededTime": 30000,
-        "neededStone": 45000,
+        "neededStone": 150000,
         "requiredBuildings": "GuardShack_10",
         "neededOre": 0,
-        "neededLumber": 1500000
+        "neededLumber": 3000000
       },
       {
         "benefits": {
           "MarchUnits": 16000,
           "Power": 230000
         },
-        "neededFood": 2200000,
+        "neededFood": 4400000,
         "neededTime": 42000,
-        "neededStone": 100000,
+        "neededStone": 350000,
         "requiredBuildings": "GuardShack_11",
         "neededOre": 0,
-        "neededLumber": 2200000
+        "neededLumber": 4400000
       },
       {
         "benefits": {
           "MarchUnits": 20000,
           "Power": 260000
         },
-        "neededFood": 2800000,
+        "neededFood": 5600000,
         "neededTime": 49800,
-        "neededStone": 200000,
+        "neededStone": 600000,
         "requiredBuildings": "GuardShack_12",
         "neededOre": 0,
-        "neededLumber": 2800000
+        "neededLumber": 5600000
       },
       {
         "benefits": {
           "MarchUnits": 22500,
           "Power": 320000
         },
-        "neededFood": 4500000,
+        "neededFood": 9000000,
         "neededTime": 61200,
-        "neededStone": 450000,
+        "neededStone": 800000,
         "requiredBuildings": "GuardShack_13",
         "neededOre": 0,
-        "neededLumber": 4500000
+        "neededLumber": 9000000
       },
       {
         "benefits": {
           "MarchUnits": 28000,
           "Power": 370000
         },
-        "neededFood": 6200000,
+        "neededFood": 12400000,
         "neededTime": 90000,
-        "neededStone": 800000,
+        "neededStone": 1000000,
         "requiredBuildings": "GuardShack_14",
-        "neededOre": 35000,
-        "neededLumber": 6200000
+        "neededOre": 70000,
+        "neededLumber": 12400000
       },
       {
         "benefits": {
           "MarchUnits": 32000,
           "Power": 430000
         },
-        "neededFood": 9000000,
+        "neededFood": 18000000,
         "neededTime": 113400,
-        "neededStone": 1500000,
+        "neededStone": 3000000,
         "requiredBuildings": "GuardShack_15",
-        "neededOre": 100000,
-        "neededLumber": 9000000
+        "neededOre": 200000,
+        "neededLumber": 18000000
       },
       {
         "benefits": {
           "MarchUnits": 34000,
           "Power": 500000
         },
-        "neededFood": 13000000,
+        "neededFood": 26000000,
         "neededTime": 156600,
-        "neededStone": 2200000,
+        "neededStone": 5000000,
         "requiredBuildings": "GuardShack_16",
-        "neededOre": 250000,
-        "neededLumber": 13000000
+        "neededOre": 500000,
+        "neededLumber": 26000000
       },
       {
         "benefits": {
           "MarchUnits": 36000,
           "Power": 580000
         },
-        "neededFood": 18000000,
+        "neededFood": 36000000,
         "neededTime": 217800,
-        "neededStone": 3200000,
+        "neededStone": 7500000,
         "requiredBuildings": "GuardShack_17",
-        "neededOre": 450000,
-        "neededLumber": 18000000
+        "neededOre": 900000,
+        "neededLumber": 36000000
       },
       {
         "benefits": {
           "MarchUnits": 38000,
           "Power": 680000
         },
-        "neededFood": 25000000,
+        "neededFood": 50000000,
         "neededTime": 302400,
-        "neededStone": 4500000,
+        "neededStone": 10000000,
         "requiredBuildings": "GuardShack_18",
-        "neededOre": 800000,
-        "neededLumber": 25000000
+        "neededOre": 1600000,
+        "neededLumber": 50000000
       },
       {
         "benefits": {
           "MarchUnits": 41000,
           "Power": 800000
         },
-        "neededFood": 30000000,
+        "neededFood": 60000000,
         "neededTime": 421800,
-        "neededStone": 6100000,
+        "neededStone": 15000000,
         "requiredBuildings": "GuardShack_19",
-        "neededOre": 1500000,
-        "neededLumber": 30000000
+        "neededOre": 3000000,
+        "neededLumber": 60000000
       },
       {
         "benefits": {
           "MarchUnits": 44000,
           "Power": 950000
         },
-        "neededFood": 39000000,
+        "neededFood": 78000000,
         "neededTime": 583200,
-        "neededStone": 8500000,
+        "neededStone": 20000000,
         "requiredBuildings": "GuardShack_20",
-        "neededOre": 2300000,
-        "neededLumber": 39000000
+        "neededOre": 4600000,
+        "neededLumber": 78000000
       },
       {
         "benefits": {
           "MarchUnits": 47000,
           "Power": 1200000
         },
-        "neededFood": 50000000,
+        "neededFood": 100000000,
         "neededTime": 813600,
-        "neededStone": 13000000,
+        "neededStone": 30000000,
         "requiredBuildings": "GuardShack_21",
-        "neededOre": 3500000,
-        "neededLumber": 50000000
+        "neededOre": 7000000,
+        "neededLumber": 100000000
       },
       {
         "benefits": {
           "MarchUnits": 50000,
           "Power": 1500000
         },
-        "neededFood": 60000000,
+        "neededFood": 120000000,
         "neededTime": 1166400,
-        "neededStone": 18000000,
+        "neededStone": 50000000,
         "requiredBuildings": "GuardShack_22",
-        "neededOre": 4800000,
-        "neededLumber": 60000000
+        "neededOre": 9600000,
+        "neededLumber": 120000000
       },
       {
         "benefits": {
           "MarchUnits": 54000,
           "Power": 1800000
         },
-        "neededFood": 88000000,
+        "neededFood": 176000000,
         "neededTime": 1598400,
-        "neededStone": 23000000,
+        "neededStone": 60000000,
         "requiredBuildings": "GuardShack_23",
-        "neededOre": 6500000,
-        "neededLumber": 88000000
+        "neededOre": 13000000,
+        "neededLumber": 176000000
       },
       {
         "benefits": {
           "MarchUnits": 58000,
           "Power": 2400000
         },
-        "neededFood": 120000000,
+        "neededFood": 350000000,
         "neededTime": 1857600,
-        "neededStone": 30000000,
+        "neededStone": 100000000,
         "requiredBuildings": "GuardShack_24",
-        "neededOre": 9000000,
-        "neededLumber": 120000000
+        "neededOre": 20000000,
+        "neededLumber": 350000000
       },
       {
         "benefits": {
           "MarchUnits": 62000,
           "Power": 3000000
         },
-        "neededFood": 150000000,
+        "neededFood": 425000000,
         "neededTime": 2160000,
-        "neededStone": 40000000,
+        "neededStone": 125000000,
         "requiredBuildings": "GuardShack_25",
-        "neededOre": 12000000,
-        "neededLumber": 150000000
+        "neededOre": 28000000,
+        "neededLumber": 425000000
       },
       {
         "benefits": {
           "MarchUnits": 66000,
           "Power": 3600000
         },
-        "neededFood": 225000000,
+        "neededFood": 550000000,
         "neededTime": 2505600,
-        "neededStone": 50000000,
+        "neededStone": 160000000,
         "requiredBuildings": "GuardShack_26",
-        "neededOre": 15000000,
-        "neededLumber": 225000000
+        "neededOre": 35000000,
+        "neededLumber": 550000000
       },
       {
         "benefits": {
           "MarchUnits": 70000,
           "Power": 4200000
         },
-        "neededFood": 300000000,
+        "neededFood": 600000000,
         "neededTime": 2937600,
-        "neededStone": 65000000,
+        "neededStone": 190000000,
         "requiredBuildings": "GuardShack_27",
-        "neededOre": 20000000,
-        "neededLumber": 300000000
+        "neededOre": 50000000,
+        "neededLumber": 600000000
       },
       {
         "benefits": {
           "MarchUnits": 75000,
           "Power": 5000000
         },
-        "neededFood": 400000000,
+        "neededFood": 700000000,
         "neededTime": 3412800,
-        "neededStone": 80000000,
+        "neededStone": 350000000,
         "requiredBuildings": "GuardShack_28",
-        "neededOre": 25000000,
-        "neededLumber": 400000000
+        "neededOre": 175000000,
+        "neededLumber": 700000000
       }
     ],
     "description": "Base of operations for your development.",
