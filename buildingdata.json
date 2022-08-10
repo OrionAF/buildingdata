@@ -3370,360 +3370,360 @@
           "Power": 150,
           "TrainingCapacity": 5
         },
-        "neededFood": 1250,
+        "neededFood": 850,
         "neededTime": 60,
         "neededStone": 0,
         "requiredBuildings": "Shelter_0",
         "neededOre": 0,
-        "neededLumber": 1250
+        "neededLumber": 850
       },
       {
         "benefits": {
           "Power": 500,
           "TrainingCapacity": 7
         },
-        "neededFood": 2500,
+        "neededFood": 2550,
         "neededTime": 150,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_1",
         "neededOre": 0,
-        "neededLumber": 2500
+        "neededLumber": 2550
       },
       {
         "benefits": {
           "Power": 1000,
           "TrainingCapacity": 9
         },
-        "neededFood": 4000,
+        "neededFood": 4080,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_2",
         "neededOre": 0,
-        "neededLumber": 4000
+        "neededLumber": 4080
       },
       {
         "benefits": {
           "Power": 2000,
           "TrainingCapacity": 11
         },
-        "neededFood": 5500,
+        "neededFood": 5440,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_3",
         "neededOre": 0,
-        "neededLumber": 5500
+        "neededLumber": 5440
       },
       {
         "benefits": {
           "Power": 3000,
           "TrainingCapacity": 13
         },
-        "neededFood": 7500,
+        "neededFood": 7140,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_4",
         "neededOre": 0,
-        "neededLumber": 7500
+        "neededLumber": 7140
       },
       {
         "benefits": {
           "Power": 5000,
           "TrainingCapacity": 15
         },
-        "neededFood": 10000,
+        "neededFood": 10200,
         "neededTime": 360,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_5",
         "neededOre": 0,
-        "neededLumber": 10000
+        "neededLumber": 10200
       },
       {
         "benefits": {
           "Power": 7500,
           "TrainingCapacity": 17
         },
-        "neededFood": 14000,
+        "neededFood": 15300,
         "neededTime": 420,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_6",
         "neededOre": 0,
-        "neededLumber": 14000
+        "neededLumber": 15300
       },
       {
         "benefits": {
           "Power": 10000,
           "TrainingCapacity": 19
         },
-        "neededFood": 20000,
+        "neededFood": 22100,
         "neededTime": 720,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_7",
         "neededOre": 0,
-        "neededLumber": 20000
+        "neededLumber": 22100
       },
       {
         "benefits": {
           "Power": 15000,
           "TrainingCapacity": 21
         },
-        "neededFood": 40000,
+        "neededFood": 42500,
         "neededTime": 1260,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_8",
         "neededOre": 0,
-        "neededLumber": 40000
+        "neededLumber": 42500
       },
       {
         "benefits": {
           "Power": 20000,
           "TrainingCapacity": 28
         },
-        "neededFood": 70000,
+        "neededFood": 78200,
         "neededTime": 2400,
         "neededStone": 0,
         "requiredBuildings": "TrainingGrounds_9",
         "neededOre": 0,
-        "neededLumber": 70000
+        "neededLumber": 78200
       },
       {
         "benefits": {
           "Power": 25000,
           "TrainingCapacity": 35
         },
-        "neededFood": 150000,
+        "neededFood": 170000,
         "neededTime": 3600,
-        "neededStone": 2500,
+        "neededStone": 8500,
         "requiredBuildings": "TrainingGrounds_10",
         "neededOre": 0,
-        "neededLumber": 150000
+        "neededLumber": 170000
       },
       {
         "benefits": {
           "Power": 30000,
           "TrainingCapacity": 42
         },
-        "neededFood": 215000,
+        "neededFood": 255000,
         "neededTime": 5400,
-        "neededStone": 4500,
+        "neededStone": 12750,
         "requiredBuildings": "TrainingGrounds_11",
         "neededOre": 0,
-        "neededLumber": 215000
+        "neededLumber": 255000
       },
       {
         "benefits": {
           "Power": 35000,
           "TrainingCapacity": 49
         },
-        "neededFood": 290000,
+        "neededFood": 374000,
         "neededTime": 8700,
-        "neededStone": 16000,
+        "neededStone": 29750,
         "requiredBuildings": "TrainingGrounds_12",
         "neededOre": 0,
-        "neededLumber": 290000
+        "neededLumber": 374000
       },
       {
         "benefits": {
           "Power": 40000,
           "TrainingCapacity": 56
         },
-        "neededFood": 400000,
+        "neededFood": 476000,
         "neededTime": 10500,
-        "neededStone": 32000,
+        "neededStone": 51000,
         "requiredBuildings": "TrainingGrounds_13",
         "neededOre": 0,
-        "neededLumber": 400000
+        "neededLumber": 476000
       },
       {
         "benefits": {
           "Power": 48000,
           "TrainingCapacity": 63
         },
-        "neededFood": 660000,
+        "neededFood": 765000,
         "neededTime": 12600,
-        "neededStone": 70000,
+        "neededStone": 68000,
         "requiredBuildings": "TrainingGrounds_14",
         "neededOre": 0,
-        "neededLumber": 660000
+        "neededLumber": 765000
       },
       {
         "benefits": {
           "Power": 56000,
           "TrainingCapacity": 70
         },
-        "neededFood": 950000,
+        "neededFood": 1054000,
         "neededTime": 15600,
-        "neededStone": 125000,
+        "neededStone": 85000,
         "requiredBuildings": "TrainingGrounds_15",
-        "neededOre": 5000,
-        "neededLumber": 950000
+        "neededOre": 5950,
+        "neededLumber": 1054000
       },
       {
         "benefits": {
           "Power": 65000,
           "TrainingCapacity": 77
         },
-        "neededFood": 1400000,
+        "neededFood": 1530000,
         "neededTime": 19800,
-        "neededStone": 240000,
+        "neededStone": 255000,
         "requiredBuildings": "TrainingGrounds_16",
         "neededOre": 17000,
-        "neededLumber": 1400000
+        "neededLumber": 1530000
       },
       {
         "benefits": {
           "Power": 75000,
           "TrainingCapacity": 84
         },
-        "neededFood": 2000000,
+        "neededFood": 2210000,
         "neededTime": 25200,
-        "neededStone": 360000,
+        "neededStone": 425000,
         "requiredBuildings": "TrainingGrounds_17",
-        "neededOre": 38000,
-        "neededLumber": 2000000
+        "neededOre": 42500,
+        "neededLumber": 2210000
       },
       {
         "benefits": {
           "Power": 90000,
           "TrainingCapacity": 91
         },
-        "neededFood": 2600000,
+        "neededFood": 3060000,
         "neededTime": 31800,
-        "neededStone": 550000,
+        "neededStone": 637500,
         "requiredBuildings": "TrainingGrounds_18",
-        "neededOre": 73000,
-        "neededLumber": 2600000
+        "neededOre": 76500,
+        "neededLumber": 3060000
       },
       {
         "benefits": {
           "Power": 110000,
           "TrainingCapacity": 98
         },
-        "neededFood": 3400000,
+        "neededFood": 4250000,
         "neededTime": 42000,
-        "neededStone": 720000,
+        "neededStone": 850000,
         "requiredBuildings": "TrainingGrounds_19",
-        "neededOre": 130000,
-        "neededLumber": 3400000
+        "neededOre": 136000,
+        "neededLumber": 4250000
       },
       {
         "benefits": {
           "Power": 130000,
           "TrainingCapacity": 105
         },
-        "neededFood": 4350000,
+        "neededFood": 5100000,
         "neededTime": 58200,
-        "neededStone": 1000000,
+        "neededStone": 1275000,
         "requiredBuildings": "TrainingGrounds_20",
-        "neededOre": 216000,
-        "neededLumber": 4350000
+        "neededOre": 255000,
+        "neededLumber": 5100000
       },
       {
         "benefits": {
           "Power": 160000,
           "TrainingCapacity": 112
         },
-        "neededFood": 5500000,
+        "neededFood": 6630000,
         "neededTime": 81000,
-        "neededStone": 1400000,
+        "neededStone": 1700000,
         "requiredBuildings": "TrainingGrounds_21",
-        "neededOre": 350000,
-        "neededLumber": 5500000
+        "neededOre": 391000,
+        "neededLumber": 6630000
       },
       {
         "benefits": {
           "Power": 180000,
           "TrainingCapacity": 119
         },
-        "neededFood": 7500000,
+        "neededFood": 8500000,
         "neededTime": 113400,
-        "neededStone": 2000000,
+        "neededStone": 2550000,
         "requiredBuildings": "TrainingGrounds_22",
-        "neededOre": 570000,
-        "neededLumber": 7500000
+        "neededOre": 595000,
+        "neededLumber": 8500000
       },
       {
         "benefits": {
           "Power": 200000,
           "TrainingCapacity": 126
         },
-        "neededFood": 10000000,
+        "neededFood": 10200000,
         "neededTime": 156600,
-        "neededStone": 2700000,
+        "neededStone": 4250000,
         "requiredBuildings": "TrainingGrounds_23",
-        "neededOre": 780000,
-        "neededLumber": 10000000
+        "neededOre": 816000,
+        "neededLumber": 10200000
       },
       {
         "benefits": {
           "Power": 230000,
           "TrainingCapacity": 133
         },
-        "neededFood": 13500000,
+        "neededFood": 14960000,
         "neededTime": 214200,
-        "neededStone": 3700000,
+        "neededStone": 5100000,
         "requiredBuildings": "TrainingGrounds_24",
-        "neededOre": 1050000,
-        "neededLumber": 13500000
+        "neededOre": 1105000,
+        "neededLumber": 14960000
       },
       {
         "benefits": {
           "Power": 280000,
           "TrainingCapacity": 140
         },
-        "neededFood": 17500000,
+        "neededFood": 29750000,
         "neededTime": 253800,
-        "neededStone": 5000000,
+        "neededStone": 8500000,
         "requiredBuildings": "TrainingGrounds_25",
-        "neededOre": 1400000,
-        "neededLumber": 17500000
+        "neededOre": 1700000,
+        "neededLumber": 29750000
       },
       {
         "benefits": {
           "Power": 350000,
           "TrainingCapacity": 150
         },
-        "neededFood": 23000000,
+        "neededFood": 36125000,
         "neededTime": 298800,
-        "neededStone": 6500000,
+        "neededStone": 10625000,
         "requiredBuildings": "TrainingGrounds_26",
-        "neededOre": 1850000,
-        "neededLumber": 23000000
+        "neededOre": 2380000,
+        "neededLumber": 36125000
       },
       {
         "benefits": {
           "Power": 450000,
           "TrainingCapacity": 160
         },
-        "neededFood": 31000000,
+        "neededFood": 46750000,
         "neededTime": 349200,
-        "neededStone": 8500000,
+        "neededStone": 13600000,
         "requiredBuildings": "TrainingGrounds_27",
-        "neededOre": 2400000,
-        "neededLumber": 31000000
+        "neededOre": 2975000,
+        "neededLumber": 46750000
       },
       {
         "benefits": {
           "Power": 600000,
           "TrainingCapacity": 180
         },
-        "neededFood": 40000000,
+        "neededFood": 51000000,
         "neededTime": 406800,
-        "neededStone": 11000000,
+        "neededStone": 16150000,
         "requiredBuildings": "TrainingGrounds_28",
-        "neededOre": 3200000,
-        "neededLumber": 40000000
+        "neededOre": 4250000,
+        "neededLumber": 51000000
       },
       {
         "benefits": {
           "Power": 800000,
           "TrainingCapacity": 200
         },
-        "neededFood": 50000000,
+        "neededFood": 59500000,
         "neededTime": 475200,
-        "neededStone": 14000000,
+        "neededStone": 29750000,
         "requiredBuildings": "TrainingGrounds_29",
-        "neededOre": 4000000,
-        "neededLumber": 50000000
+        "neededOre": 14875000,
+        "neededLumber": 59500000
       }
     ],
     "maxBuilds": 1,
