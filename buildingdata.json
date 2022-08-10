@@ -3003,8 +3003,20 @@
           "Power": 250,
           "RallyCapacity": 1500
         },
-        "neededFood": 1500,
+        "neededFood": 500,
         "neededTime": 120,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 500
+      },
+      {
+        "benefits": {
+          "Power": 700,
+          "RallyCapacity": 3500
+        },
+        "neededFood": 1500,
+        "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
@@ -3012,47 +3024,59 @@
       },
       {
         "benefits": {
-          "Power": 700,
-          "RallyCapacity": 3500
-        },
-        "neededFood": 3500,
-        "neededTime": 180,
-        "neededStone": 0,
-        "requiredBuildings": "GuardShack_8",
-        "neededOre": 0,
-        "neededLumber": 3500
-      },
-      {
-        "benefits": {
           "Power": 1500,
           "RallyCapacity": 6000
         },
-        "neededFood": 5000,
+        "neededFood": 2400,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
-        "neededLumber": 5000
+        "neededLumber": 2400
       },
       {
         "benefits": {
           "Power": 2600,
           "RallyCapacity": 9000
         },
-        "neededFood": 7000,
+        "neededFood": 3200,
         "neededTime": 330,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
-        "neededLumber": 7000
+        "neededLumber": 3200
       },
       {
         "benefits": {
           "Power": 4000,
           "RallyCapacity": 12000
         },
-        "neededFood": 9000,
+        "neededFood": 4200,
         "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 4200
+      },
+      {
+        "benefits": {
+          "Power": 7000,
+          "RallyCapacity": 15000
+        },
+        "neededFood": 6000,
+        "neededTime": 480,
+        "neededStone": 0,
+        "requiredBuildings": "GuardShack_8",
+        "neededOre": 0,
+        "neededLumber": 6000
+      },
+      {
+        "benefits": {
+          "Power": 11000,
+          "RallyCapacity": 19000
+        },
+        "neededFood": 9000,
+        "neededTime": 510,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
@@ -3060,303 +3084,279 @@
       },
       {
         "benefits": {
-          "Power": 7000,
-          "RallyCapacity": 15000
-        },
-        "neededFood": 12500,
-        "neededTime": 480,
-        "neededStone": 0,
-        "requiredBuildings": "GuardShack_8",
-        "neededOre": 0,
-        "neededLumber": 12500
-      },
-      {
-        "benefits": {
-          "Power": 11000,
-          "RallyCapacity": 19000
-        },
-        "neededFood": 18000,
-        "neededTime": 510,
-        "neededStone": 0,
-        "requiredBuildings": "GuardShack_8",
-        "neededOre": 0,
-        "neededLumber": 18000
-      },
-      {
-        "benefits": {
           "Power": 15000,
           "RallyCapacity": 24000
         },
-        "neededFood": 27500,
+        "neededFood": 13000,
         "neededTime": 960,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
-        "neededLumber": 27500
+        "neededLumber": 13000
       },
       {
         "benefits": {
           "Power": 19000,
           "RallyCapacity": 30000
         },
-        "neededFood": 53000,
+        "neededFood": 25000,
         "neededTime": 1620,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_8",
         "neededOre": 0,
-        "neededLumber": 53000
+        "neededLumber": 25000
       },
       {
         "benefits": {
           "Power": 25000,
           "RallyCapacity": 36000
         },
-        "neededFood": 95000,
+        "neededFood": 46000,
         "neededTime": 3060,
         "neededStone": 0,
         "requiredBuildings": "GuardShack_9",
         "neededOre": 0,
-        "neededLumber": 95000
+        "neededLumber": 46000
       },
       {
         "benefits": {
           "Power": 34000,
           "RallyCapacity": 43000
         },
-        "neededFood": 200000,
+        "neededFood": 100000,
         "neededTime": 4800,
-        "neededStone": 3500,
+        "neededStone": 5000,
         "requiredBuildings": "GuardShack_10",
         "neededOre": 0,
-        "neededLumber": 200000
+        "neededLumber": 100000
       },
       {
         "benefits": {
           "Power": 42000,
           "RallyCapacity": 52000
         },
-        "neededFood": 290000,
+        "neededFood": 150000,
         "neededTime": 7200,
-        "neededStone": 10000,
+        "neededStone": 7500,
         "requiredBuildings": "GuardShack_11",
         "neededOre": 0,
-        "neededLumber": 290000
+        "neededLumber": 150000
       },
       {
         "benefits": {
           "Power": 50000,
           "RallyCapacity": 62000
         },
-        "neededFood": 400000,
+        "neededFood": 220000,
         "neededTime": 11700,
-        "neededStone": 20000,
+        "neededStone": 17500,
         "requiredBuildings": "GuardShack_12",
         "neededOre": 0,
-        "neededLumber": 400000
+        "neededLumber": 220000
       },
       {
         "benefits": {
           "Power": 60000,
           "RallyCapacity": 74000
         },
-        "neededFood": 550000,
+        "neededFood": 280000,
         "neededTime": 14100,
-        "neededStone": 45000,
+        "neededStone": 30000,
         "requiredBuildings": "GuardShack_13",
         "neededOre": 0,
-        "neededLumber": 550000
+        "neededLumber": 280000
       },
       {
         "benefits": {
           "Power": 75000,
           "RallyCapacity": 87000
         },
-        "neededFood": 900000,
+        "neededFood": 450000,
         "neededTime": 16800,
-        "neededStone": 90000,
+        "neededStone": 40000,
         "requiredBuildings": "GuardShack_14",
         "neededOre": 0,
-        "neededLumber": 900000
+        "neededLumber": 450000
       },
       {
         "benefits": {
           "Power": 90000,
           "RallyCapacity": 100000
         },
-        "neededFood": 1250000,
+        "neededFood": 620000,
         "neededTime": 20400,
-        "neededStone": 170000,
+        "neededStone": 50000,
         "requiredBuildings": "GuardShack_15",
-        "neededOre": 7000,
-        "neededLumber": 1250000
+        "neededOre": 3500,
+        "neededLumber": 620000
       },
       {
         "benefits": {
           "Power": 110000,
           "RallyCapacity": 120000
         },
-        "neededFood": 1800000,
+        "neededFood": 900000,
         "neededTime": 26400,
-        "neededStone": 320000,
+        "neededStone": 150000,
         "requiredBuildings": "GuardShack_16",
-        "neededOre": 24000,
-        "neededLumber": 1800000
+        "neededOre": 10000,
+        "neededLumber": 900000
       },
       {
         "benefits": {
           "Power": 130000,
           "RallyCapacity": 140000
         },
-        "neededFood": 2600000,
+        "neededFood": 1300000,
         "neededTime": 33000,
-        "neededStone": 500000,
+        "neededStone": 250000,
         "requiredBuildings": "GuardShack_17",
-        "neededOre": 52000,
-        "neededLumber": 2600000
+        "neededOre": 25000,
+        "neededLumber": 1300000
       },
       {
         "benefits": {
           "Power": 155000,
           "RallyCapacity": 165000
         },
-        "neededFood": 3400000,
+        "neededFood": 1800000,
         "neededTime": 42600,
-        "neededStone": 700000,
+        "neededStone": 375000,
         "requiredBuildings": "GuardShack_18",
-        "neededOre": 100000,
-        "neededLumber": 3400000
+        "neededOre": 45000,
+        "neededLumber": 1800000
       },
       {
         "benefits": {
           "Power": 170000,
           "RallyCapacity": 190000
         },
-        "neededFood": 4500000,
+        "neededFood": 2500000,
         "neededTime": 55800,
-        "neededStone": 960000,
+        "neededStone": 500000,
         "requiredBuildings": "GuardShack_19",
-        "neededOre": 180000,
-        "neededLumber": 4500000
+        "neededOre": 80000,
+        "neededLumber": 2500000
       },
       {
         "benefits": {
           "Power": 190000,
           "RallyCapacity": 225000
         },
-        "neededFood": 5800000,
+        "neededFood": 3000000,
         "neededTime": 78000,
-        "neededStone": 1350000,
+        "neededStone": 750000,
         "requiredBuildings": "GuardShack_20",
-        "neededOre": 280000,
-        "neededLumber": 5800000
+        "neededOre": 150000,
+        "neededLumber": 3000000
       },
       {
         "benefits": {
           "Power": 220000,
           "RallyCapacity": 260000
         },
-        "neededFood": 7500000,
+        "neededFood": 3900000,
         "neededTime": 108000,
-        "neededStone": 1900000,
+        "neededStone": 1000000,
         "requiredBuildings": "GuardShack_21",
-        "neededOre": 470000,
-        "neededLumber": 7500000
+        "neededOre": 230000,
+        "neededLumber": 3900000
       },
       {
         "benefits": {
           "Power": 260000,
           "RallyCapacity": 310000
         },
-        "neededFood": 9500000,
+        "neededFood": 5000000,
         "neededTime": 151200,
-        "neededStone": 2700000,
+        "neededStone": 1500000,
         "requiredBuildings": "GuardShack_22",
-        "neededOre": 760000,
-        "neededLumber": 9500000
+        "neededOre": 350000,
+        "neededLumber": 5000000
       },
       {
         "benefits": {
           "Power": 300000,
           "RallyCapacity": 360000
         },
-        "neededFood": 13000000,
+        "neededFood": 6000000,
         "neededTime": 208800,
-        "neededStone": 3600000,
+        "neededStone": 2500000,
         "requiredBuildings": "GuardShack_23",
-        "neededOre": 1100000,
-        "neededLumber": 13000000
+        "neededOre": 480000,
+        "neededLumber": 6000000
       },
       {
         "benefits": {
           "Power": 350000,
           "RallyCapacity": 420000
         },
-        "neededFood": 17500000,
+        "neededFood": 8800000,
         "neededTime": 288000,
-        "neededStone": 5000000,
+        "neededStone": 3000000,
         "requiredBuildings": "GuardShack_24",
-        "neededOre": 1500000,
-        "neededLumber": 17500000
+        "neededOre": 650000,
+        "neededLumber": 8800000
       },
       {
         "benefits": {
           "Power": 430000,
           "RallyCapacity": 490000
         },
-        "neededFood": 23500000,
+        "neededFood": 17500000,
         "neededTime": 338400,
-        "neededStone": 6500000,
+        "neededStone": 5000000,
         "requiredBuildings": "GuardShack_25",
-        "neededOre": 1900000,
-        "neededLumber": 23500000
+        "neededOre": 1000000,
+        "neededLumber": 17500000
       },
       {
         "benefits": {
           "Power": 550000,
           "RallyCapacity": 580000
         },
-        "neededFood": 31000000,
+        "neededFood": 21250000,
         "neededTime": 396000,
-        "neededStone": 8800000,
+        "neededStone": 6250000,
         "requiredBuildings": "GuardShack_26",
-        "neededOre": 2500000,
-        "neededLumber": 31000000
+        "neededOre": 1400000,
+        "neededLumber": 21250000
       },
       {
         "benefits": {
           "Power": 700000,
           "RallyCapacity": 650000
         },
-        "neededFood": 45000000,
+        "neededFood": 27500000,
         "neededTime": 464400,
-        "neededStone": 11500000,
+        "neededStone": 8000000,
         "requiredBuildings": "GuardShack_27",
-        "neededOre": 3200000,
-        "neededLumber": 45000000
+        "neededOre": 1750000,
+        "neededLumber": 27500000
       },
       {
         "benefits": {
           "Power": 850000,
           "RallyCapacity": 750000
         },
-        "neededFood": 52000000,
+        "neededFood": 30000000,
         "neededTime": 540000,
-        "neededStone": 15000000,
+        "neededStone": 9500000,
         "requiredBuildings": "GuardShack_28",
-        "neededOre": 4000000,
-        "neededLumber": 52000000
+        "neededOre": 2500000,
+        "neededLumber": 30000000
       },
       {
         "benefits": {
           "Power": 1000000,
           "RallyCapacity": 900000
         },
-        "neededFood": 65000000,
+        "neededFood": 35000000,
         "neededTime": 630000,
-        "neededStone": 18000000,
+        "neededStone": 17500000,
         "requiredBuildings": "GuardShack_29",
-        "neededOre": 5000000,
-        "neededLumber": 65000000
+        "neededOre": 8750000,
+        "neededLumber": 35000000
       }
     ],
     "description": "Enhance your shelter's reinforcement capacity",
