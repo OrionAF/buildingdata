@@ -1506,12 +1506,12 @@
           "MaxCapacity": 1200,
           "RssPerHour": 8
         },
-        "neededFood": 150,
+        "neededFood": 60,
         "neededTime": 30,
         "neededStone": 0,
         "requiredBuildings": "Shelter_14",
         "neededOre": 0,
-        "neededLumber": 150
+        "neededLumber": 60
       },
       {
         "benefits": {
@@ -1519,12 +1519,12 @@
           "MaxCapacity": 1560,
           "RssPerHour": 10
         },
-        "neededFood": 250,
+        "neededFood": 180,
         "neededTime": 60,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 250
+        "neededLumber": 180
       },
       {
         "benefits": {
@@ -1532,12 +1532,12 @@
           "MaxCapacity": 2400,
           "RssPerHour": 13
         },
-        "neededFood": 350,
+        "neededFood": 288,
         "neededTime": 60,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 350
+        "neededLumber": 288
       },
       {
         "benefits": {
@@ -1545,12 +1545,12 @@
           "MaxCapacity": 3600,
           "RssPerHour": 15
         },
-        "neededFood": 450,
+        "neededFood": 384,
         "neededTime": 90,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 450
+        "neededLumber": 384
       },
       {
         "benefits": {
@@ -1558,12 +1558,12 @@
           "MaxCapacity": 6000,
           "RssPerHour": 20
         },
-        "neededFood": 600,
+        "neededFood": 504,
         "neededTime": 120,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 600
+        "neededLumber": 504
       },
       {
         "benefits": {
@@ -1571,12 +1571,12 @@
           "MaxCapacity": 12000,
           "RssPerHour": 25
         },
-        "neededFood": 800,
+        "neededFood": 720,
         "neededTime": 120,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 800
+        "neededLumber": 720
       },
       {
         "benefits": {
@@ -1584,12 +1584,12 @@
           "MaxCapacity": 18000,
           "RssPerHour": 33
         },
-        "neededFood": 1200,
+        "neededFood": 1080,
         "neededTime": 180,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 1200
+        "neededLumber": 1080
       },
       {
         "benefits": {
@@ -1597,12 +1597,12 @@
           "MaxCapacity": 27000,
           "RssPerHour": 40
         },
-        "neededFood": 1750,
+        "neededFood": 1560,
         "neededTime": 240,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 1750
+        "neededLumber": 1560
       },
       {
         "benefits": {
@@ -1610,12 +1610,12 @@
           "MaxCapacity": 36000,
           "RssPerHour": 55
         },
-        "neededFood": 3500,
+        "neededFood": 3000,
         "neededTime": 420,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 3500
+        "neededLumber": 3000
       },
       {
         "benefits": {
@@ -1623,12 +1623,12 @@
           "MaxCapacity": 48000,
           "RssPerHour": 70
         },
-        "neededFood": 6000,
+        "neededFood": 5520,
         "neededTime": 780,
         "neededStone": 0,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 6000
+        "neededLumber": 5520
       },
       {
         "benefits": {
@@ -1636,12 +1636,12 @@
           "MaxCapacity": 72000,
           "RssPerHour": 90
         },
-        "neededFood": 12500,
+        "neededFood": 12000,
         "neededTime": 1200,
-        "neededStone": 200,
+        "neededStone": 600,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 12500
+        "neededLumber": 12000
       },
       {
         "benefits": {
@@ -1651,7 +1651,7 @@
         },
         "neededFood": 18000,
         "neededTime": 1800,
-        "neededStone": 800,
+        "neededStone": 900,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
         "neededLumber": 18000
@@ -1662,12 +1662,12 @@
           "MaxCapacity": 120000,
           "RssPerHour": 155
         },
-        "neededFood": 24000,
+        "neededFood": 26400,
         "neededTime": 2880,
-        "neededStone": 1500,
+        "neededStone": 2100,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 24000
+        "neededLumber": 24600
       },
       {
         "benefits": {
@@ -1675,12 +1675,12 @@
           "MaxCapacity": 144000,
           "RssPerHour": 200
         },
-        "neededFood": 34000,
+        "neededFood": 33600,
         "neededTime": 3600,
-        "neededStone": 3000,
+        "neededStone": 3600,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 34000
+        "neededLumber": 33600
       },
       {
         "benefits": {
@@ -1688,12 +1688,12 @@
           "MaxCapacity": 168000,
           "RssPerHour": 250
         },
-        "neededFood": 55000,
+        "neededFood": 54000,
         "neededTime": 4200,
-        "neededStone": 5000,
+        "neededStone": 4800,
         "requiredBuildings": "Storehouse_14",
         "neededOre": 0,
-        "neededLumber": 55000
+        "neededLumber": 54000
       },
       {
         "benefits": {
@@ -1701,12 +1701,12 @@
           "MaxCapacity": 192000,
           "RssPerHour": 325
         },
-        "neededFood": 78000,
+        "neededFood": 74400,
         "neededTime": 5100,
-        "neededStone": 10000,
+        "neededStone": 3000,
         "requiredBuildings": "Storehouse_15",
-        "neededOre": 400,
-        "neededLumber": 78000
+        "neededOre": 420,
+        "neededLumber": 74400
       },
       {
         "benefits": {
@@ -1714,12 +1714,12 @@
           "MaxCapacity": 240000,
           "RssPerHour": 425
         },
-        "neededFood": 115000,
+        "neededFood": 108000,
         "neededTime": 6600,
-        "neededStone": 20000,
+        "neededStone": 18000,
         "requiredBuildings": "Storehouse_16",
-        "neededOre": 1500,
-        "neededLumber": 115000
+        "neededOre": 1200,
+        "neededLumber": 108000
       },
       {
         "benefits": {
@@ -1727,12 +1727,12 @@
           "MaxCapacity": 300000,
           "RssPerHour": 550
         },
-        "neededFood": 160000,
+        "neededFood": 156000,
         "neededTime": 8400,
         "neededStone": 30000,
         "requiredBuildings": "Storehouse_17",
         "neededOre": 3000,
-        "neededLumber": 160000
+        "neededLumber": 156000
       },
       {
         "benefits": {
@@ -1740,12 +1740,12 @@
           "MaxCapacity": 360000,
           "RssPerHour": 725
         },
-        "neededFood": 215000,
+        "neededFood": 216000,
         "neededTime": 10800,
-        "neededStone": 42000,
+        "neededStone": 45000,
         "requiredBuildings": "Storehouse_18",
-        "neededOre": 7000,
-        "neededLumber": 215000
+        "neededOre": 5400,
+        "neededLumber": 216000
       },
       {
         "benefits": {
@@ -1753,12 +1753,12 @@
           "MaxCapacity": 420000,
           "RssPerHour": 925
         },
-        "neededFood": 280000,
+        "neededFood": 300000,
         "neededTime": 14100,
         "neededStone": 60000,
         "requiredBuildings": "Storehouse_19",
-        "neededOre": 12000,
-        "neededLumber": 280000
+        "neededOre": 9600,
+        "neededLumber": 300000
       },
       {
         "benefits": {
@@ -1768,7 +1768,7 @@
         },
         "neededFood": 360000,
         "neededTime": 19800,
-        "neededStone": 80000,
+        "neededStone": 90000,
         "requiredBuildings": "Storehouse_20",
         "neededOre": 18000,
         "neededLumber": 360000
@@ -1779,12 +1779,12 @@
           "MaxCapacity": 600000,
           "RssPerHour": 1575
         },
-        "neededFood": 458000,
+        "neededFood": 468000,
         "neededTime": 27000,
-        "neededStone": 115000,
+        "neededStone": 120000,
         "requiredBuildings": "Storehouse_21",
-        "neededOre": 30000,
-        "neededLumber": 458000
+        "neededOre": 27600,
+        "neededLumber": 468000
       },
       {
         "benefits": {
@@ -1794,9 +1794,9 @@
         },
         "neededFood": 600000,
         "neededTime": 37800,
-        "neededStone": 160000,
+        "neededStone": 180000,
         "requiredBuildings": "Storehouse_22",
-        "neededOre": 47500,
+        "neededOre": 42000,
         "neededLumber": 600000
       },
       {
@@ -1805,12 +1805,12 @@
           "MaxCapacity": 780000,
           "RssPerHour": 2500
         },
-        "neededFood": 800000,
+        "neededFood": 720000,
         "neededTime": 52200,
-        "neededStone": 225000,
+        "neededStone": 300000,
         "requiredBuildings": "Storehouse_23",
-        "neededOre": 65000,
-        "neededLumber": 800000
+        "neededOre": 57600,
+        "neededLumber": 720000
       },
       {
         "benefits": {
@@ -1818,12 +1818,12 @@
           "MaxCapacity": 900000,
           "RssPerHour": 3375
         },
-        "neededFood": 1100000,
+        "neededFood": 1056000,
         "neededTime": 71400,
-        "neededStone": 300000,
+        "neededStone": 360000,
         "requiredBuildings": "Storehouse_24",
-        "neededOre": 90000,
-        "neededLumber": 1100000
+        "neededOre": 78000,
+        "neededLumber": 1056000
       },
       {
         "benefits": {
@@ -1831,12 +1831,12 @@
           "MaxCapacity": 1020000,
           "RssPerHour": 4375
         },
-        "neededFood": 1500000,
+        "neededFood": 2100000,
         "neededTime": 84600,
-        "neededStone": 380000,
+        "neededStone": 600000,
         "requiredBuildings": "Storehouse_25",
         "neededOre": 120000,
-        "neededLumber": 1500000
+        "neededLumber": 2100000
       },
       {
         "benefits": {
@@ -1844,12 +1844,12 @@
           "MaxCapacity": 1200000,
           "RssPerHour": 5750
         },
-        "neededFood": 2000000,
+        "neededFood": 2550000,
         "neededTime": 99000,
-        "neededStone": 500000,
+        "neededStone": 750000,
         "requiredBuildings": "Storehouse_26",
-        "neededOre": 150000,
-        "neededLumber": 2000000
+        "neededOre": 168000,
+        "neededLumber": 2550000
       },
       {
         "benefits": {
@@ -1857,12 +1857,12 @@
           "MaxCapacity": 1440000,
           "RssPerHour": 7500
         },
-        "neededFood": 2600000,
+        "neededFood": 3300000,
         "neededTime": 117000,
-        "neededStone": 650000,
+        "neededStone": 960000,
         "requiredBuildings": "Storehouse_27",
-        "neededOre": 180000,
-        "neededLumber": 2600000
+        "neededOre": 210000,
+        "neededLumber": 3300000
       },
       {
         "benefits": {
@@ -1870,12 +1870,12 @@
           "MaxCapacity": 1680000,
           "RssPerHour": 10000
         },
-        "neededFood": 3200000,
+        "neededFood": 3600000,
         "neededTime": 135000,
-        "neededStone": 800000,
+        "neededStone": 1140000,
         "requiredBuildings": "Storehouse_28",
-        "neededOre": 210000,
-        "neededLumber": 3200000
+        "neededOre": 300000,
+        "neededLumber": 3600000
       },
       {
         "benefits": {
@@ -1883,12 +1883,12 @@
           "MaxCapacity": 1920000,
           "RssPerHour": 12500
         },
-        "neededFood": 4000000,
+        "neededFood": 4200000,
         "neededTime": 158400,
-        "neededStone": 1000000,
+        "neededStone": 2100000,
         "requiredBuildings": "Storehouse_29",
-        "neededOre": 250000,
-        "neededLumber": 4000000
+        "neededOre": 1050000,
+        "neededLumber": 4200000
       }
     ],
     "description": "Extract ore material for construction use",
